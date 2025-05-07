@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - American micornic air fryer
 	- bought from their website

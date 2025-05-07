@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 #OfficeNote 
 ?![[3xMaK0M - Imgur.png]]

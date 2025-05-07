@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Barring gear arrangement is provided to keep it rotating at a nominal speed for preventing thermal bending (Eccentricity) in hot conditions to allow uniform heating or cooling during start up or shut down and thus prevent developing rotor eccentricity.
 - In case of machines provided with motorized baring gear, the barring stalling usually does not take place, but increase in motor current takes place depending upon severity and resistance to rotation. Under such conditions, the chances of damage are increased

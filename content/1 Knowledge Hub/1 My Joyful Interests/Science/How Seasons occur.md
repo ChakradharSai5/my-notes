@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
  - The matter is Earth is rotating around sun in elliptical but if you see, it has very small eccentricity so it is almost like circle
  - Also there's a myth saying that during summer Earth is near from Sun and during winter Earth is far from sun, but that's a myth

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - People when they say Induction motor, they are talking about AC Motors
 - AC motors are mainly classified into:

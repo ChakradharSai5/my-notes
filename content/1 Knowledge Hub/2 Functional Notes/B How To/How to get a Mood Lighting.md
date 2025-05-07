@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Usual lights are at 5600Kelvin
 - For good mood lighting, look for "Warm white" which is 2600K lights

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Dilip rawat TMD – came from vindhyachal saying- has good schools and very good shopping places, many branded shops just outside township, swiggy and zomato available , he used to use it regularly
 	- Vindhyachal maintanance is far better than Kaniha, as said by our Dilip sir TMD

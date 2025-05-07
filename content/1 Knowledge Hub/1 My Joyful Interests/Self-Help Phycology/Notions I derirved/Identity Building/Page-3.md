@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - George Miller - MAD MAX
 	- "the thing that defines the hero is that they come to a moment where they have to relinquish their own self-interest to a greater good"

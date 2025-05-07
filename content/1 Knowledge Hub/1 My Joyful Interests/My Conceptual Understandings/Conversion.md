@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 1,000=kilo = thousand = 10 ^3
 1,000,000 = million = 1000 thousands = 10 ^6 =10 lakhs

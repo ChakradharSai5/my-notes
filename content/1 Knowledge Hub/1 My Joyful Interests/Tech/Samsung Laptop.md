@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### Book 4 360 vs Book 4 360 Pro
 - 15.6 inch vs 15.3inch

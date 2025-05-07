@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### Processor Notation
 - Processor of intel has basically like this

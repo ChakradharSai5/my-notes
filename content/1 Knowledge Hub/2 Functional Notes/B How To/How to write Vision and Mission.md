@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 # Write a mission and vision
 

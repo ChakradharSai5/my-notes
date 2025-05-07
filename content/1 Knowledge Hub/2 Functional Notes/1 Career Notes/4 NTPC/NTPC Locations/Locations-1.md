@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - [[Saurabh srimali]] sir worked in nuclear plant
     - and then worked at somewhere good- jajjar and then got posted here, which was his not option at all, according to him some plants are worst so should not keep the location there as option

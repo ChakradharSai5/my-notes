@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Mill GGG P/p starts
 - delay for distributor activation 3 min- activation f/b from red switch, if activates it immediately goes to next step

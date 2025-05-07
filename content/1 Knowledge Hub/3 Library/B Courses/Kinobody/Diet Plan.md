@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - calorie split of about 27% protein, 33% fat and 40% carbs.
 - Carbs are highly beneficial. They are directly involved in building muscle. Carbs restock muscle glycogen and promote anabolism. Carbs boost insulin and reduce excess cortisol. Carbs also increase energy so you can train harder.

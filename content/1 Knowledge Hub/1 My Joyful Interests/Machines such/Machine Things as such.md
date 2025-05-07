@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Alternator:
 	- nothing but generator

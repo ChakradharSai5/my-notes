@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### Tapovan Incident
 In February 2021, a catastrophic flash flood occurred in the Chamoli district of Uttarakhand, India, impacting the NTPC Tapovan Vishnugad hydroelectric project. The disaster was triggered by a massive rock and ice avalanche, which led to a deluge of water and debris rushing through the Rishiganga and Dhauliganga river valleys. This sudden surge caused extensive damage to infrastructure, including the Tapovan project, and resulted in significant loss of life.

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 There are basically two parts to this
 1. **Our NTPC side**, which includes calculating "Total Earnings" and "Total Deductions", & by substracting latter from former, we'll get "Net Pay".

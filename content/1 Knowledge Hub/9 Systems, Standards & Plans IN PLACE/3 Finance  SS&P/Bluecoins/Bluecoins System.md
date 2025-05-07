@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### Bluecoins Synch System
 It works in three levels

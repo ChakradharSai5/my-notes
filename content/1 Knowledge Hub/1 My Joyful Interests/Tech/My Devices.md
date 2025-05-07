@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Asus Zen Laptop UX 430UA model
 	- NVIDIA GeForce MX150  6GB memory

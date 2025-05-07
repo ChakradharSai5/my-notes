@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Fire hydrant line charging 
 

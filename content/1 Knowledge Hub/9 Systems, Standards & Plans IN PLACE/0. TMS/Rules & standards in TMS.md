@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### Projects
 - In notion Projects naming convention should end with " - AREAS OF LIFE", with respective area of life

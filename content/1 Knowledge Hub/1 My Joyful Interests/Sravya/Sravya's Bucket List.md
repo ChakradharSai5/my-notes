@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Any good baking class that teaches very good or good traditional cooking with tips and tricks
 - Fruit dehydrator

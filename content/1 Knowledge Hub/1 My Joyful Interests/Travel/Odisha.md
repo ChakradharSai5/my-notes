@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - https://www.instagram.com/p/C6Tduf1xR4Q/
 

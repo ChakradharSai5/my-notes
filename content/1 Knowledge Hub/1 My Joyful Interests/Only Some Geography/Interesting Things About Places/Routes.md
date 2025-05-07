@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - At talcher Road station, 
 	- train goes to bhubaneswar going towards fly over

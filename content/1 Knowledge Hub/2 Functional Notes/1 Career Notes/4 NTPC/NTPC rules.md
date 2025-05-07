@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - - **LEAVE PLAN **
 	- #pending - I have to check

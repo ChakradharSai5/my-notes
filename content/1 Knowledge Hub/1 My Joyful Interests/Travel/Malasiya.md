@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Location📍: Langkawi island, Malaysia  
 Flight: From kuala lumpur it costs 1000-1500/- depending on weekend and weekdays  

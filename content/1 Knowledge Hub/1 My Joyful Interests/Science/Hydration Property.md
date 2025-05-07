@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - There is something called hydration property of water, what it means is, we think, at least till now I thought ions can't be stable, like any ion like H+ or OH- all these are unstable is what I thought; but today I found out that water has this property called hydration
 - basically what it does is any salt say NaCl, dissolves in water, what happens is this NaCl breaks to Na+ and Cl- and this individual ions attracts water's opposite ions like Na+ attracts OH- ions of water, the H2o molecule stays intact, however this Na+ ion imagine like big sphere and that sphere gets sorrunded by multiple H20 molecules with OH- facing Na+, like that some 4-6 molecules sorrounds this Na+ ion and forms what we call hydration shell

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 #OfficeNote
 ##  Cost of fuel and stuff

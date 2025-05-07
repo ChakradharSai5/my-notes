@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 
 ![[20250223_181105.jpg]]

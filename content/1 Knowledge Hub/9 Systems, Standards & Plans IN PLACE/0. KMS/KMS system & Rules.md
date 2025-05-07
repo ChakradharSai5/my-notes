@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ![[KMS System Scheme Drawing.svg]]
 [[KMS System Scheme Drawing]]

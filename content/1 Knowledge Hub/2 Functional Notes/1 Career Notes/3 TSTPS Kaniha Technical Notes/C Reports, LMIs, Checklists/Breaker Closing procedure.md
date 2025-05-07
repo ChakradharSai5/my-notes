@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
  To close/Trip a breaker in panel, 
 	1. first put check key and rotate it

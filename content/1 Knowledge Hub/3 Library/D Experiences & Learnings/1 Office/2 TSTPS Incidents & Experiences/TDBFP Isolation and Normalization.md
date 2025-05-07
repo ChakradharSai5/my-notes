@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### TDBFP isolation and Normalization
 - Things to note is, as contrary to I though LP steam temperature permissive did not take much time, if all drains were also properly opened, especially MV valves at 8.5mtr.

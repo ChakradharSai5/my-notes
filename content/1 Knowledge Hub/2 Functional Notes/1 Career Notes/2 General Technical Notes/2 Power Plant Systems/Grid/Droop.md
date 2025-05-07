@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### Droop rate
 - Is something given by manufacturer, here our droop rate is 5%, that is,  the manufacturer is saying that, when grid due to frequency variation if grid squeezes in 500MW my TG shall unload by 5% of rated speed(3000rpm), that is 2850rpm . Similarly, if grid squeezes out 500MW TG shall gets loaded by 5% of rated speed (3000rpm) that is to 3150rpm

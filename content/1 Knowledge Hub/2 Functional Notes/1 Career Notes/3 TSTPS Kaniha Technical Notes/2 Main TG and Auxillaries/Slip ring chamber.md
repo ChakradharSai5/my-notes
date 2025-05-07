@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Rotor earth fault issue:
     - Due slight passing of bearing 6 oil catcher MOT oil getting spilled out and is being sucked to excitation chamber causing rotor slight earthing as rotor is exposed as brushes kept in contact to rotor

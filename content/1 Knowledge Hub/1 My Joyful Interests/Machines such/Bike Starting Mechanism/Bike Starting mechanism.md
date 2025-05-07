@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ![[Bike Starting mechanism Drawing.excalidraw]][[Bike Starting mechanism Drawing.excalidraw]]
 ### Gear mechanism of Starter motor  

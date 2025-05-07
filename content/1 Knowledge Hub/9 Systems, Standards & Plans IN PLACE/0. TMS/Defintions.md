@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Projects
 	- Group of Tasks linked to common goal 

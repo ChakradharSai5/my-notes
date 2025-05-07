@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - after synch and load increasing with feedwater increase with LLCV
 	- put TD and MD in auto before opening FW of FRS so that the change in flow due to FRS opening can be catered by Feedwater master in auto

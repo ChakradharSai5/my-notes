@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 #pending for excalidraw
 - Command from DCS from 24V DC goes to relay K11, makes the K11 relay of 110V ac, this in turn makes K10 relay which allows main power of 415V ac 3 Ph through to MOV

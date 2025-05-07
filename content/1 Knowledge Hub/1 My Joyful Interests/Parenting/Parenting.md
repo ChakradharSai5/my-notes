@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Your job as a parent is to make your child socailly acceptable by the age of 4-5, **burn that in to your mind**
 - because he should be able to interact with other child and adult and that is how he learns to live

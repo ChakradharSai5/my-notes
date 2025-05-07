@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 Generator protection is broadly classified into three types: Class A, B, and C
 # Class A

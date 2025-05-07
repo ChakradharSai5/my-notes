@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 # How to learn something to learn :Feynman technique
 

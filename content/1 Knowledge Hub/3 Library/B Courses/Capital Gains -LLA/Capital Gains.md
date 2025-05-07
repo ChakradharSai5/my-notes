@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 # capital gains class- LLA
 

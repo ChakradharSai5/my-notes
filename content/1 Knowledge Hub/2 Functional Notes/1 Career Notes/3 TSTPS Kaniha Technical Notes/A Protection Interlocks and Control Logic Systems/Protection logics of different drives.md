@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - CEP Protection & Interlock:
 	- Protection trip is at <25ksc, delay of 15Sec

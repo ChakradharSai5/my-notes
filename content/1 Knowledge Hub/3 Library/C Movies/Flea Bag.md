@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - I have not seen it, and I doubt if I ever get time to properly watch it
 - but recent video  I have seen in YT made me think about it

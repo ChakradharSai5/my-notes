@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ![[Spray Drawing.svg]]
 [[Spray Drawing]]

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Got into IIM Lucknow
 - near to his home, which is at kanpur, some 2.5hr from there 

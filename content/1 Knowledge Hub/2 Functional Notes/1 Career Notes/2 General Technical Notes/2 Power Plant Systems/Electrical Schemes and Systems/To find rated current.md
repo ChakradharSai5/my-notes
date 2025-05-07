@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - For any drive, find the wattage, and divide it with root(3)xVxcos(phi),
 - say for a drive of 0.5kW and from 415V feeder

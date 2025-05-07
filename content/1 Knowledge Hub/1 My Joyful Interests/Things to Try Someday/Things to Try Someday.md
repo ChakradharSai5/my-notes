@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Get a dog after some days ,it'll definitely improves your life
 

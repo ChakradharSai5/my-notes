@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### Career
 - For power sector related news especially in India, related to financial aspects and growth aspects

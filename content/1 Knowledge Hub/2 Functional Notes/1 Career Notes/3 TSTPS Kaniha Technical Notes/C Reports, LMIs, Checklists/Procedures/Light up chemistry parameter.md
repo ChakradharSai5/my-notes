@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 refer [[Chemistry Parameters]]
 1. After checking the sample from separator drain and with chemistry clearance AA/AN valves to hot well to be opened and increase feed water flow to 200TPH Clearance Parameters: Sample: Separator Drain 

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 #UrgentThing **this whole page is to be urgent thing**
 - Do things only if you are convinced/ or you feel that you should do it, don't do it if you are not convinced, don't force yourself - thinking it will help according to that book or according to some philosophy

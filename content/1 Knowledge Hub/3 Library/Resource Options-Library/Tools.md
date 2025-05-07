@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - To make wordwise for non kindle books the source of code and instruction to run is available at this Git Hub
 	- tmilovanov/wisecreator: Utility for adding word wise information to non amazon books https://github.com/tmilovanov/wisecreator WISE CREATOR ANOTHER WAY TO DO TRY THIS

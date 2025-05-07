@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 #OfficeNote
 - Volumetric feeders: rely on volume measurements

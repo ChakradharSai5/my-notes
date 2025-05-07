@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 #OfficeNote
 Gland seal and sleeve of pump

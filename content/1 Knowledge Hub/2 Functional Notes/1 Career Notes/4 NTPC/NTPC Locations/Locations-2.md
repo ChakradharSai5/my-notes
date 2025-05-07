@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - There is a guy recently joined in TMD-manager, he is from Haridwar inspection office
     - There are many places of inspection offices in NTPC, haridwar, Calcutta, Tirichi

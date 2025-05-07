@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### All Indian Power Generation
 - In all India generation 

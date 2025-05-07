@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Total 8 package AC systems are in the VFD
 - 1 to 6 - has 3 compressor

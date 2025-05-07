@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 1. Any definitions should be exclusive and intuitive, that is, that means, if I have "Thing" to do, I should be intuitively shall be able to feel where that goes, will it go to project or sphere of activity or generic etc. 
 2. Similarly if I have some "Note", I should be able to feel or intuitively guess where that should go, will it be joyful interests, or functional notes or library or systems & standards in place, and even inside that, should it go to say functional notes, should it go to office or car or anything else.

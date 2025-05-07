@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 #### DAM
 - Is something, that is decided a day before, D-1 Day we shall give at 1000Hrs to 1100Hrs, but I don't know why it is being said that it gets freezes at 15000Hrs

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Casio Edifice 2.5year warranty
 	- bought from -- dated -- 

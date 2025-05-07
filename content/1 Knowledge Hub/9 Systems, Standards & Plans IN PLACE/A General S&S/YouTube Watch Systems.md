@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - If any YouTube video to watch immedietly or to be watched just to absorb or listen is added to "**watch later**"
 - if any video found interseting but need to be written or better understanding, then it is to be added to "**Long Watch Later**"

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Opens CV & PC gates
 - Opens main steam valve 25sec WT

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ## NTPC 2022-23 annual report
 

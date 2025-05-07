@@ -1,4 +1,5 @@
 ---
 dg-publish: true
+draft: false
 ---
 ![[1.jpg]]![[2.jpg]]

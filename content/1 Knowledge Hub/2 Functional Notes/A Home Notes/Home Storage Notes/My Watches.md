@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### Casio Edifice
 - Registered in Casio Website, 2.5 year warranty

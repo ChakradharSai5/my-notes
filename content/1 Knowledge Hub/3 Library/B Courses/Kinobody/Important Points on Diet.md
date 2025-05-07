@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - . It’s a shoulder to waist ratio of 1.6:1 is what v shape is mostly.
 - 6-12% body fat range is ideal for the Kinobody Look, i personally prefer i think 15% is enough for me- let us see.

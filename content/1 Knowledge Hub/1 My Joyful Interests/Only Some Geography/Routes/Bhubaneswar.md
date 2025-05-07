@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Routes/Maps
     - KANIHA TO BBSR AC BUS ROUTE

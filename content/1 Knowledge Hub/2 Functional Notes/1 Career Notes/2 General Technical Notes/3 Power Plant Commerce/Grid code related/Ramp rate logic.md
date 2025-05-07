@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - During Ramp up of unit light up time, our EEMG guy sudhanshu sir logic is if our DC revision it self is from block to block is less than 1% ramp, then though we declare 1% ramp eligible block for this period, doesn't mater, because any way our SG is going to get capped at DC, so no way we are actually going to get 1% ramp, but effectively we are increasing our 1% declared blocks, so it helps in getting our incentive of ramp
 - During ramp up or down, the preference should be given to ramp not the DSM 

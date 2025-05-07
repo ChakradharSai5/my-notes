@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### Non fiction- Self Help
 #### Non Fiction 

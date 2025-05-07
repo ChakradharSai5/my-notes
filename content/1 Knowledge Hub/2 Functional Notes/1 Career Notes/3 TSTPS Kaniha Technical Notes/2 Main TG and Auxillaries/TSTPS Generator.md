@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 H2 Dew point 10C, and purity >97%, in OE handbook pg 140
 ## St-1 Generator

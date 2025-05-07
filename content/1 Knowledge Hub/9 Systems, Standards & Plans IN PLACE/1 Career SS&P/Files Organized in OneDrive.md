@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### One Drive Files organized of Office
  All office files are organized kept as mentioned as 

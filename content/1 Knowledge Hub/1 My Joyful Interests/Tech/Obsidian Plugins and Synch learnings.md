@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 ### Google Project
 There's main thing called Project

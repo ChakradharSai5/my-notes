@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - 40Mtr has two hoppers 
 	- 34, 36

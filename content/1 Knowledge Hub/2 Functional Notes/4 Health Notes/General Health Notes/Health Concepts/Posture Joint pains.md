@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - **Sitting for a long time:**
     - sitting hours together for a long time, causes

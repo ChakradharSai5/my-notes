@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - The protection trip from vacuum is as you know , peculiarly done here
 	- Normal vacuum maintains at 0.88ksc that is in DCS (-)655mmhg

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - I have done Unit-2 shutdown dated 21-06-2024
 - During which what happened is, Kasi sir was there 

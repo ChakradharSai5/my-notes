@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Mainly two types of relays:
     - Electro mechanical relays which works like Solenoid valve, which works n faradays principle

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 
 TYPES OF HEAT TRANSFER BASICALLY

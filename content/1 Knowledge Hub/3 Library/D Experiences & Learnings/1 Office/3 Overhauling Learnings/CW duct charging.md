@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - CW duct charging down one side from CW blow down I think Hot CW duct, ICV 1 and ICV 2 CW cold duct charging
     - Now Pass-B Inlt and O/L valves slightly opened to 40%

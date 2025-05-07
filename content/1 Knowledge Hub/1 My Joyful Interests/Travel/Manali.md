@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+draft: false
 ---
 - Telugu person cottages
 	- https://www.instagram.com/p/C-eaFHWMKWt/
