@@ -1,0 +1,6 @@
+---
+dg-publish: true
+---
+- Pradhanpat water falls went via deogarh,   #pending , nirupam and raghob went, 
+- Khandagiri water falls - Srikanth went
+- 

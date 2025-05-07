@@ -1,0 +1,13 @@
+---
+dg-publish: true
+---
+- Siva
+	- Uttarabhadra nakshatram - Okato padam
+	- Meena Raasi
+- Sravya
+	- Same as siva nakshatram - rendo padam
+	- Meena raasi
+- Chakri
+	- Revathi Nakshatram
+	- meena raasi
+	- 

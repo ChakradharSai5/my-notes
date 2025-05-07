@@ -1,0 +1,5 @@
+---
+dg-publish: true
+---
+![[3 Phase induction motor Drawing.svg]]
+[[3 Phase induction motor Drawing]]

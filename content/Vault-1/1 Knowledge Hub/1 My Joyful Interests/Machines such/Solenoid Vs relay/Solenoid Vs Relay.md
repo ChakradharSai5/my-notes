@@ -1,0 +1,6 @@
+---
+dg-publish: true
+---
+- Solenoid as such will be 
+![[Solenoid Vs Relay Drawing.svg]]
+[[Solenoid Vs Relay Drawing]]

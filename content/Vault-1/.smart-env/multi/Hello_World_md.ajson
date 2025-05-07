@@ -1,0 +1,4 @@
+
+"SmartSource:Hello World.md": {"key":"Hello World.md","path":"Hello World.md","embeddings":{},"history":[{"blocks":{"Hello World.md#":true,"Hello World.md#{1}":true},"mtime":1729998269899,"size":76,"hash":"f1f82cfff98e0206f3745740916f2c91565f259ea4bf4882dd9f49120f0f44cb"}],"class_name":"SmartSource","outlinks":[]}
+"SmartBlock:Hello World.md#": {"key":"Hello World.md#","path":"Hello World.md#","embeddings":{},"text":null,"length":30,"class_name":"SmartBlock","heading":null,"lines":[0,3]}
+"SmartBlock:Hello World.md#{1}": {"key":"Hello World.md#{1}","path":"Hello World.md#{1}","embeddings":{},"text":null,"length":36,"class_name":"SmartBlock","heading":null,"lines":[4,5]}

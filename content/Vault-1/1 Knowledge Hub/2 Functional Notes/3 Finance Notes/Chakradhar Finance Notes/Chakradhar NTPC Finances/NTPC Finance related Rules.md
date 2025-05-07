@@ -1,0 +1,46 @@
+---
+review-frequency: normal
+dg-publish: true
+---
+
+- - **POLICY RULES**
+    - HBA:
+        - 9.5 Simple interest
+        - Max 60lac or 90month salary
+        - Only house construction or purchase of land
+        - Not exceeding 25yrs_ 15y rs [principle] & 10yrs[interest]
+        - No loan for only purchase of land
+    - Medical check-up
+        - Normal annual medical check-up at ntpc hospital
+        - 25 to 40 age package 1 and package 2 both every 5 years
+        - After 40, package 1 every year & package 2 every 3years
+        - Extra test in package 2 for ladies
+        - Check if they are doing all tests , sometimes they don't
+    - Medical claim rules
+        - Max 2 on calendar month
+        - Within 4 months directly, if more than 4 months first to be approved by controlling officer- valid up to an year
+        - NOTE: The corporate medical check-up sometimes are not doing some tests though they are included in the package, So we have to cross check while they are doing tests whether they are doing all tests or not.
+        - maX 8MB file can be attached
+        - Consumables are non reimbursable- as mentioned in comment by doctor in medical claim
+    - PMS:
+        - PMS is for the period of calendar year
+    - Insurance:
+        - Group insurance increased from 27lakh to 57 lakh from April 1st 2023
+    - Multipurpose:
+        - Basic+ DA of four months, modified to 6 months in November 2024
+        - Max 36 instalments, modified to 50 installments in November 2024
+        - No interest but, amount of interest shall be added to taxable income for income tax calculation
+        - Can be taken only once in a calendar year
+    - PF loan rules       
+	    - Non-refundable pf loan eligible only after 7 years of service
+	    - Refundable loan - 6 times the basic plus Da is for PF and max installments of 50
+    - Car loan
+        - Simple interest 7.5%
+        - principle : interest installation period ration 2:1
+        - First principle then interest
+        - Basic x 10times
+    - NTPC [[NPS]]
+	    - NTPC contributes 8.99% of your Basic+DA to NPS
+	    - I have HDFC as my fund manager
+	    - and kept in aggressive, for better understanding [[NPS]] 
+	- 

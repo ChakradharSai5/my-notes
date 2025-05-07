@@ -1,0 +1,7 @@
+---
+dg-publish: true
+---
+
+---
+![[Whole Life Design Drawing.excalidraw.svg]]
+[[Whole Life Design Drawing.excalidraw]]

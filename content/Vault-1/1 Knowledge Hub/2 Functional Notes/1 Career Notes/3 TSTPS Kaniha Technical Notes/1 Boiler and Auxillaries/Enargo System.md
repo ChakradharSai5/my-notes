@@ -1,0 +1,11 @@
+---
+dg-publish: true
+---
+- 40Mtr has two hoppers 
+	- 34, 36
+	- SAPH-A, SAPH-B
+- 48Mtr has two hoppers
+	- 33, 35
+	- PAPH-A, PAPH-B
+- 12Mtr has four hopper
+	- 33, 34, 35, 36
