@@ -8,5 +8,5 @@
 
 [[1 Knowledge Hub/3 Library/Resource Options-Library/]]
 
-[[Jon Snow.jpg]]
+![[Jon Snow.jpg]]
 
