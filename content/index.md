@@ -7,3 +7,6 @@
 [[Pending Place]], [[Pending Place-2]]
 
 [[1 Knowledge Hub/3 Library/Resource Options-Library/]]
+
+[[Jon Snow.jpg]]
+
