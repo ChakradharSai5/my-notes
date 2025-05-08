@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Around 60% steam flow is 350MW load, AN close command goes, #pending  with the photo taken in google photos during lightup of SDCS

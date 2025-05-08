@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - ay you take a loan of Rs 1 crore today at a 6% p.a. interest rate, repayable over a 30 year schedule.  

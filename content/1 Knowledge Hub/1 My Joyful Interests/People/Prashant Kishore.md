@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - A very interesting idea told by him in an interview is about the aspiration of people, that people aspirations is something that is to be satisfied, howmuch ever people may have, they will have always have this notion that they want a better life

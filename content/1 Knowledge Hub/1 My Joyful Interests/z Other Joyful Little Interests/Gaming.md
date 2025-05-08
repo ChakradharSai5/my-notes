@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - There is a game called dedicated to the lore of the Elder Scrolls series, a popular franchise of role-playing video games

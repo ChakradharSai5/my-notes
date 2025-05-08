@@ -1,6 +1,5 @@
 ---
 Related Pages: "[[TDBFP]]"
-dg-publish: true
 draft: false
 ---
 1.  Revise [[TDBFP]] [[Pni]]

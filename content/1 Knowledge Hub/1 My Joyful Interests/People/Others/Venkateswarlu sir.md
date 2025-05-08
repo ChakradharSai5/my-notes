@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 Venkateswarlesu native and previous working experience from ranagundam and about his 10x training and about NVVN

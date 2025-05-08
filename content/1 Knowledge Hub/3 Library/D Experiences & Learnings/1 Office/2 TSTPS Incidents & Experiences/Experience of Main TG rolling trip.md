@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 # Experience of [[Main TG]] rolling trip

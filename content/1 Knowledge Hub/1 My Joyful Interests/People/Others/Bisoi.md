@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 Our guy bisoi is from ichhapuram near vizag i think, he is located at place where

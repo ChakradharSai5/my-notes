@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - https://investor.sebi.gov.in/ - SEBI website on investment knowledge learning, SEBI in partnership with NISM

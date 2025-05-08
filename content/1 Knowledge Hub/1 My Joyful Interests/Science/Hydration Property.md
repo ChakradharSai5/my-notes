@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - There is something called hydration property of water, what it means is, we think, at least till now I thought ions can't be stable, like any ion like H+ or OH- all these are unstable is what I thought; but today I found out that water has this property called hydration

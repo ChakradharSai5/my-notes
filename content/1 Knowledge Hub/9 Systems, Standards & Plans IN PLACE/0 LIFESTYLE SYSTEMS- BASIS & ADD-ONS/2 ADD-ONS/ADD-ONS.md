@@ -1,8 +1,7 @@
 ---
-dg-publish: true
 draft: false
 ---
-![[ADD-ONS Drawing.excalidraw]]
+![[ADD-ONS Drawing.svg]]
 ### Habits
 - Just something that can be done at any time in mentioned period, but should be done in that period, 
 - has irregular tracking - so it shall be tracked with mind

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### THIS ALSO WORKS TO LEARN FROM YOUTUBE VIDEO ALSO 

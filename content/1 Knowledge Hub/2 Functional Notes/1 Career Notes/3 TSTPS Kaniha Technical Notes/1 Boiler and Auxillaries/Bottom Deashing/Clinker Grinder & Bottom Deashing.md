@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Clinker Grinder trip from no ON/Running feedback, and power fuses not ok and control fuses being ok, it will show Power supply healthy, and if you give start, running indication shall not come, refer  [[DN3 Module scheme]] & [[N3 Module Scheme]]\

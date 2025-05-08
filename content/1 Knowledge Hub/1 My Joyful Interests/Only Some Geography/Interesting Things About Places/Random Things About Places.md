@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Wasseypur (Gangs of wasseypur) is near city Dhanbad in Jharkhand

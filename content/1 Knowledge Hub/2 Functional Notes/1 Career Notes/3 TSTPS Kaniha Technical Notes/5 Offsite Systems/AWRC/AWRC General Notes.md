@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - **Seepage water Pump house:**

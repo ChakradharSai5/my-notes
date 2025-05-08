@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - The generator reading requires a multiplication factor of 4 to get to MWhr, Later find the difference from yesterdays Generator reading to todays and convert it million units,- which must be equal to million units reading taken from DCS.

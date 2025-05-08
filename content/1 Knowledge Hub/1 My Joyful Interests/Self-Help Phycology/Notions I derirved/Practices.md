@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 #UrgentThing **this whole page is to be urgent thing**

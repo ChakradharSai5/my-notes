@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - the best way to remember to is to write and interpret - said by him in interview

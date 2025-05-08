@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Your job as a parent is to make your child socailly acceptable by the age of 4-5, **burn that in to your mind**

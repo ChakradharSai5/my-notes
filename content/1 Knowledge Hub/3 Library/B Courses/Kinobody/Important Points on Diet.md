@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - . It’s a shoulder to waist ratio of 1.6:1 is what v shape is mostly.

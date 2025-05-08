@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 1. Any definitions should be exclusive and intuitive, that is, that means, if I have "Thing" to do, I should be intuitively shall be able to feel where that goes, will it go to project or sphere of activity or generic etc. 

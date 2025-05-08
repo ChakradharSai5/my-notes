@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ![[Chittoor to Naidupeta Route Drawing.svg]]

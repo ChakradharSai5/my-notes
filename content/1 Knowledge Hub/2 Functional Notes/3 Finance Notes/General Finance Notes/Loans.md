@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Loan on land only can be taken when and there when you are purchasing a land, or for construction in that land

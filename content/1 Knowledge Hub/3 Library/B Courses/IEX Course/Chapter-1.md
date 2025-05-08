@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ## Chapter-1

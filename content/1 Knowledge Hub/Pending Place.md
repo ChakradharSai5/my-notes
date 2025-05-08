@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Sons of darkness some say as Indian GOT, checkout the review in free time, if its worth

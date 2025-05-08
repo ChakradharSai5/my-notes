@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### Here this note is to note things I like, and to derive why I like those things, what exactly I value in that, by identifying that I can lead more such directional intentional life

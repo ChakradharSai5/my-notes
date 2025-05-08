@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### Book 4 360 vs Book 4 360 Pro

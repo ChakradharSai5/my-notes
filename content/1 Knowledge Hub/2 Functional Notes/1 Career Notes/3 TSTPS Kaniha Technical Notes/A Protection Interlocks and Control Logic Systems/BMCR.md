@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 In [[Pni]], for mills it is given as boiler load <13% mcr is for mill tripping, i think they are talking about this bmcr, but not sure, #pending I think it is nothing but steam flow

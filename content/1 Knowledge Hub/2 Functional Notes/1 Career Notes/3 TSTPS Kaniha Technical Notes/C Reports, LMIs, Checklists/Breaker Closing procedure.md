@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
  To close/Trip a breaker in panel, 

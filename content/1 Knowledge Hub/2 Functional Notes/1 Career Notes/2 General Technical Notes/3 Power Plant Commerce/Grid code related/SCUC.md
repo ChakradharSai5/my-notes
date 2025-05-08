@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - security constraint unit commitment

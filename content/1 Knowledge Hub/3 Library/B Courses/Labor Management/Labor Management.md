@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ![[TW4Trdn - Imgur.png]]

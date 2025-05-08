@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Gear Box oil level can be measured with Dip stick and view glass, 

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Kishore's brother who earns around 2 digit lakhs per month

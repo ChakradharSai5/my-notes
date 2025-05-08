@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Total 8 package AC systems are in the VFD

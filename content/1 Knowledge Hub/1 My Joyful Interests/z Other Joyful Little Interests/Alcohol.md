@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Red label, Green label, blue label, Gold label all this are Scotch whiskeys

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Asus Zen Laptop UX 430UA model

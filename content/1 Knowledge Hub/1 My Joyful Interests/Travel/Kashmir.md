@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Gulmarg is no less than switzerland

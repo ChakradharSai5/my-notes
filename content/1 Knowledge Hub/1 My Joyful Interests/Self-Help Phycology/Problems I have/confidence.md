@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 Therapy problems - I take people at high stature with very high regard, it's very difficult for me to consider them as normal average person, I have to force myself to see that they are also normal like. Else they should make some silly mistake, which is possible when I work with them closely with best example appa Rao saying dhoni to takeout helmet, seems something very much impossible for me to do, because I admire such person so much that I feel may be it is insulting to tell them what to do and not to do

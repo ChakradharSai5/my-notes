@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - chakradhar S22 plus: 

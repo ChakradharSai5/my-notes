@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Area :3890 acres

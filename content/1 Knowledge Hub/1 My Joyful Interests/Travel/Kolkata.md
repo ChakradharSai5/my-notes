@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Nirupam told in kolkata, places to visit- Eco park, Neco park, to go to kolkata before 2-3 days before durga pooja, as there will be no rush

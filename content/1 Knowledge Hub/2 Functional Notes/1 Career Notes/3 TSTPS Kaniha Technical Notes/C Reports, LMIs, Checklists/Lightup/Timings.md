@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 As per C-OS light up reports

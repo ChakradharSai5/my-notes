@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### DC Scheduling Timeline & Strategy for Max commercial gain

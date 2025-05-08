@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 1,000=kilo = thousand = 10 ^3

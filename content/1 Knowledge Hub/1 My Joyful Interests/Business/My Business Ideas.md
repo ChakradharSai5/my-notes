@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Idea of making business in applying jobs area with customer care and clarity, having all their details and coming up as and when required 

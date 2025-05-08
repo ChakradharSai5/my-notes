@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 P.I.E : Profits, Income, Earnings all are same meaning, all are bottom line

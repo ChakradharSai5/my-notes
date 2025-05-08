@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - calorie split of about 27% protein, 33% fat and 40% carbs.

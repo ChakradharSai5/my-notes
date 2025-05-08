@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Satish sir given scheme is correct. it has drains as mentioned in condersor flood test list of drain valves. - which is actual as we have operated them accordingly while flood test.

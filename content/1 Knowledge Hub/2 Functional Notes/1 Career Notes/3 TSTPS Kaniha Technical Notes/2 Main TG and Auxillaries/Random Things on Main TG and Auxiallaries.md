@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Main TG JOP pressure **during shut down** normal shall be

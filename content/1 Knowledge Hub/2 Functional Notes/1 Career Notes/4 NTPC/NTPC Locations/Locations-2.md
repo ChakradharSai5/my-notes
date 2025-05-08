@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - There is a guy recently joined in TMD-manager, he is from Haridwar inspection office

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - NVVN is what that deals with this kind of PEX thing from NTPC side, [[Saurabh srimali]], once visited NVVN office, 

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
-![[Super Heater back filling.excalidraw]]
+![[Super Heater back filling Drawing.svg]]

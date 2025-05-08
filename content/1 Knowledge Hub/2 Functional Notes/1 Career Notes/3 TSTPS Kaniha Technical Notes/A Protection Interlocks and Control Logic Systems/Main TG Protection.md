@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - The protection trip from vacuum is as you know , peculiarly done here

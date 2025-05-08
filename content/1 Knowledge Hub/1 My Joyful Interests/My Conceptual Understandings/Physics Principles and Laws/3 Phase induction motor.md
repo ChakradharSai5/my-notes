@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ![[3 Phase induction motor Drawing.svg]]

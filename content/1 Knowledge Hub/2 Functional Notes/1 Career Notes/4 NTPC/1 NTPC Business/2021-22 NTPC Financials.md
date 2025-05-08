@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### **2021-22, NTPC FINANCIALS:**

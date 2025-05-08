@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### Covers kept at Pantry rack top

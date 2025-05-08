@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - In unit-1 & 2 we have 1234 and 5678 VC fans respectively

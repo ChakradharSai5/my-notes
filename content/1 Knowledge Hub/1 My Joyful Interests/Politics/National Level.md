@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - UP - Yogi adityanath in competetion with his current Dy. chief minister Keshav Prasad Maurya, & 

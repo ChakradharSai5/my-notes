@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ◦ TSTPP Stage-1 has two 500 MW units, where Boiler is supplied by STEIN INDUSTRIES, FRANCE and Turbo-Generator is supplied by ABB, GERMANY

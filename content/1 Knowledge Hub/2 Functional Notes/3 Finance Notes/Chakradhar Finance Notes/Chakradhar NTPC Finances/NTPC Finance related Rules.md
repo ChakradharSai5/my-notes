@@ -1,6 +1,4 @@
 ---
-review-frequency: normal
-dg-publish: true
 draft: false
 ---
 

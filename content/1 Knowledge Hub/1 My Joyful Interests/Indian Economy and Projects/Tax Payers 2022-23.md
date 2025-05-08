@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 Out of the 7.33 crore tax filers in the country, 70% tax filers did not pay any tax. This means just about 2.3 crore people, that’s 1.5% of the population actually pays Income Tax.  

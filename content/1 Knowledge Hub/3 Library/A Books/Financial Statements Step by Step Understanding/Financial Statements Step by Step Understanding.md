@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### What question you are looking to get answered in this book?

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### Step 1: **Basic Properties of Water**

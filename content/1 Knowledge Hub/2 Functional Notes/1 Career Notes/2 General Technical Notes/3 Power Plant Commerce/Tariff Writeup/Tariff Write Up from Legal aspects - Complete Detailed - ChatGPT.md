@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 # **Breakdown of Tariff Regulations (2019–24)**

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Sometimes Diesel hydrant pumps have no overload instead they just don’t take start

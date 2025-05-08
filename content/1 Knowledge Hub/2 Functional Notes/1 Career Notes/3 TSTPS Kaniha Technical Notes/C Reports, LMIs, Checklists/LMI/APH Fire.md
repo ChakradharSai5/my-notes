@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - by improving the boiler efficiency, improving combustion and reducing pollution by lowering the exit gas temperature

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Ensure close of all CV and PC Gate

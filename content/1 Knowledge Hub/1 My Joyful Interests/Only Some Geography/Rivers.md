@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - At bhadrachalam, Godavari is flowing at around 43.5feet on dated 29th july , while flooding

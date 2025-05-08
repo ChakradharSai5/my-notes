@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - the loading SOV shall pass oil to compressor some hydraulic unit, which shall make the compressor to laod, probably by motor coupling with compressor unit

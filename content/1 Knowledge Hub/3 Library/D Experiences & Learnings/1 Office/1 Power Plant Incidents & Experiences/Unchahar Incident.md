@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Boiler explosion causing around 43 people dead

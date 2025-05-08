@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ![[Device naming Convention Drawing.svg]]

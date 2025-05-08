@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - While watching Forgotten korean movie I realized, when the climax is about to come, I realized both heros has to die, then only I will get satisfaction, otherwise IF the story would have other way, where they live, I am sure I would have not liked it, So I have this feeling of story should be certain way only then it will be good, I think I should go with that while making a story myself.

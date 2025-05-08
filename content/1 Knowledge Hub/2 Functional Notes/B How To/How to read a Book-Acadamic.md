@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - **To read any new concepts or new textbook concept topics, while doing this below steps try to connect dots of why**

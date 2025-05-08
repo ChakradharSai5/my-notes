@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - NN Sahoo WSG M

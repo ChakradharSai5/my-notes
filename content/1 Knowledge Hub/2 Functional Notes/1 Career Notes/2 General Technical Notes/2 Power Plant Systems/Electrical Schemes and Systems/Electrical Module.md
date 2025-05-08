@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - K12 - for start or open command, goes through K10 relay

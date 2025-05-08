@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - He is now in bangolore

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 # When to disagree with your loved ones?

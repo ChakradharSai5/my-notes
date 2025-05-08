@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - He applied for, I think DRDO, however due to non giving of NOC by NTPC, he got rejected and were not able to give interview at DRDO - not sure, yet to confirm

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - In DCDB if say any fault came, and we measured the voltage, it came to be around 90V, EMD cannot identify the root of fault, unless the voltage goes below 50V EMD cannot find the fault location

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 You know I have 100GB google photos drive storage plan, to make best of use of this 100GB, and have a simple, clean memory photos, we need to have offline and online storage of photos and videos

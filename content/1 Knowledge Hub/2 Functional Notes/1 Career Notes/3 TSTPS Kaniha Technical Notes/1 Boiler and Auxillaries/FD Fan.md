@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - For air measurement the transmitters that are shown in DCS as LHS and RHS are at around 48Mtr a duct going side of the boiler![[WhatsApp Image 2025-04-21 at 16.47.33_acde9f98.jpg]]

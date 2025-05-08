@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - about Vinoth E3 electrical joined in C&I, 11 years experience in some PNP plant in Tamilnadu, then to ntpc Jannur, near antoher ntpc Kawas near some city, 

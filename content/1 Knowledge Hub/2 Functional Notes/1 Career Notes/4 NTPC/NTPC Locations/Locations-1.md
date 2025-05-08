@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - [[Saurabh srimali]] sir worked in nuclear plant

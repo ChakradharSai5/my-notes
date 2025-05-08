@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - CW duct charging down one side from CW blow down I think Hot CW duct, ICV 1 and ICV 2 CW cold duct charging
@@ -31,11 +30,11 @@ draft: false
     - TDBFPs solo run will be done while stopping the unit
 
 ### Fire Hydrant & DV scheme 
-![[rfGrXNT - Imgur.png]]
 
 
-### Transformer PnI check details
-![[sXE6miv - Imgur.png]]
+
+
+
 
 
 

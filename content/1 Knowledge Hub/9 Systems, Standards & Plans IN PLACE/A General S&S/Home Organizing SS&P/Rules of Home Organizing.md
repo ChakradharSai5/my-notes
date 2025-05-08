@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Any new device comes to home, if you feel guide is requied to be refered in future, then guide to be kept in white ikea steel drawer NTPC folder

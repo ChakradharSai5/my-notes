@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 starvation is something that may happen due to non flow of fluid -*be it water or steam* - that is we are giving heat and not giving any cooling medium

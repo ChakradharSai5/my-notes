@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - [[Ravi Teja]] said, vindhyachal has very good school - DPS, it is famous for that

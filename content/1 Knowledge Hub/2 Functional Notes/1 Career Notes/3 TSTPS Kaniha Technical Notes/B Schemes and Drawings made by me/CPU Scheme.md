@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ![[CPU scheme Drawing.svg]]

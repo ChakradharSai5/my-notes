@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Pulicat lake is somewhat good place to go, have to check government facilities to go there

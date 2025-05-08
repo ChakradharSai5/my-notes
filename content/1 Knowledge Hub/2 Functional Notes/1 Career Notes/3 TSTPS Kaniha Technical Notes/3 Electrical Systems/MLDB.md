@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - ACMLDB source is from SSS-A & B, in 12.5mtr switchgear,

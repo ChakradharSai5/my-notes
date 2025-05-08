@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - To find real good knowledge hardworking persons, for the sake of thier experiences and tips we should find where they did free lance work of Free softwares of plug-ins , Best example : about zettlesjeaten not able to find correct teller on the matter bcs people on YouTube are not using for actually doing anything from real work they do it for making projects of making videos on YouTube. For people Actually doing some project is these people who did community free plug ins like in case of this obsidian free plug in excalidraw person zsolt guy. Very knowledgeable person and a person who actually used zettlekasten to actually do some projects in life like me, not just for youtube

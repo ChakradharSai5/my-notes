@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### **Experience from [[TDBFP]]-1A mechanical bolt not working

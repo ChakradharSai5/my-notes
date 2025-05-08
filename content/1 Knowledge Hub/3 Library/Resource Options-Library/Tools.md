@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - To make wordwise for non kindle books the source of code and instruction to run is available at this Git Hub

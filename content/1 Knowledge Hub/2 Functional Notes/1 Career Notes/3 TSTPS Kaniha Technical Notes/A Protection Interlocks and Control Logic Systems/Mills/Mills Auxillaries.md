@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - HP Lop pressure < 20ksc, which is Low with 2 sec delay auto start

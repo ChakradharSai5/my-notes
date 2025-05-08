@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### One Drive Files organized of Office

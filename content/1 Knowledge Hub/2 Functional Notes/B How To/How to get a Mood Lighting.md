@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Usual lights are at 5600Kelvin

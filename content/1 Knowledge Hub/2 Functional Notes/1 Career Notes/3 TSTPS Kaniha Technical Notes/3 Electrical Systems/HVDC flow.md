@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Currently only HVDC 1000 in service

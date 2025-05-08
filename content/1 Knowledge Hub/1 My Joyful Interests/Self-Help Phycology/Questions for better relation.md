@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Ask about high and low of day

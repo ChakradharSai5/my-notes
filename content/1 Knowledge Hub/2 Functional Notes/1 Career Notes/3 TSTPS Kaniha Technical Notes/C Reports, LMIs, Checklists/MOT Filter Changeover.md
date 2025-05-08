@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - as usual, there is changeover valve which is a wheel, equalizing valve. drain and vent for both filters.

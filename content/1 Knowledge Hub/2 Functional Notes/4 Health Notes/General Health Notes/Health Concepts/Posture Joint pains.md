@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - **Sitting for a long time:**

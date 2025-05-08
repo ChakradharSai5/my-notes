@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 This is from our - generator perspective the DC revision in a day for partial load loss

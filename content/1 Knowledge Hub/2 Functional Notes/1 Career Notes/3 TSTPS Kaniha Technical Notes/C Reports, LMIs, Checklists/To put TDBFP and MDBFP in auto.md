@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - after synch and load increasing with feedwater increase with LLCV

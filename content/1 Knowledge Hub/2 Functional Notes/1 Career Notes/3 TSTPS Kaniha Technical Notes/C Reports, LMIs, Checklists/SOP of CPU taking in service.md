@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### This is rough SOP of what I saw

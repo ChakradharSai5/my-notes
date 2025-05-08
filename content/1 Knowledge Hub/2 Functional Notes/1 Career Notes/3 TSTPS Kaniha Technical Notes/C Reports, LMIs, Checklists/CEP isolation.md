@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - During [[CEP]] isolation, if isolation don't happen properly that is if it is still coming under vacuum, then even if the drainis opened, water willnot come through drain

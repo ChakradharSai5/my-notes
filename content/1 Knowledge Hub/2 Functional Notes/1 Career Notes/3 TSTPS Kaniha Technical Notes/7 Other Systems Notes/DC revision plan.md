@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - - if revised, in even block gets revised from +7 block, if odd, +6

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 Here's a detailed breakdown of the normal scheduling of power from a generator's perspective and how RRAS gets activated in real-time in relation to it:

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - If `HP mean rotor temperature` is above 360DegC then it will be **HOT**

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Rajasthan Desert festival at ran of Kutch

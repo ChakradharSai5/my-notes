@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - There's some  chance we may get SG below technical minimum

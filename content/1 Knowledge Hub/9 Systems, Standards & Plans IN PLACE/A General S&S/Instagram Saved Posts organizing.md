@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 ### Collection made to be exclusive

@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 draft: false
 ---
 - Now before reading this it is recommended to read [[DC Vs AC Motor Working mechanism]], where I have explained how DC motor works
