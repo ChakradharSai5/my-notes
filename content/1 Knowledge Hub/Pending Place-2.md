@@ -50,8 +50,6 @@ Green hydrogen of clusters by Govt. India
 
 Tutorial at session 6 and 11, 
 - Float the problem and answer 
-- ![[2024.12.26 - 17.48pm.writing]]
-- ![[2024.12.26 - 23.20pm.drawing]]
 ```handwritten-ink
 {
 	"versionAtEmbed": "0.2.6",
