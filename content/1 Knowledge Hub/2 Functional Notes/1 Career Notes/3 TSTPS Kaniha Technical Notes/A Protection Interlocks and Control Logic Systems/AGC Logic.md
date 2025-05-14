@@ -17,7 +17,7 @@ Secondary control – AGC
 
 Incentive @ 50ps/kwhr of over and above normative energy
 
-Teritirary control-  RRAS
+Teritirary control-  [[RRAS]]
 
 - Here at kaniha, in CMC, the MW demand signal that is getting generated is
 	- Setpoint - AGC correction

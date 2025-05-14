@@ -15,7 +15,7 @@ These below details are for 2014-19, specifics may change every 5 years, but phi
 	- this is interest of that 70%, regulation states, this shall be at rate how much ever company is paying that borrower
 - Depreciation
 	- notice that the above 2 were just interests, what about principle?, well this the principle, here that principle shall be catered yearly some fixed percentage, up to 25 years, till the valuation gets to 95% I guess, apparently meaning the things/machinery you had bought gets valued to 5% of how much ever it had been bought 25 years ago.
-- Interest on working capital
+- Interest on [[Working capital]]
 	- this is assuming you need some working capital, say 15 days coal at immediate disposal in hand ALWAYS, shall mean you have buy this thing keep it reserve all the time, same goes with spares, this is called working capital
 	- now this working capital, how much, shall be fixed or "norm"ed by regulatory authority, but for that working capital, the interest is this one
 - O&M costs

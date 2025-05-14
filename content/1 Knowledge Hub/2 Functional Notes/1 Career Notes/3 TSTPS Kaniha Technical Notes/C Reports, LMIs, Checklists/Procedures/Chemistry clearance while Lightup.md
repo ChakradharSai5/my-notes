@@ -1,7 +1,7 @@
 ---
 draft: false
 ---
-refer [[Chemistry Parameters]]
+refer [[Chemistry Parameters during Lightup]]
 1. After checking the sample from separator drain and with chemistry clearance AA/AN valves to hot well to be opened and increase feed water flow to 200TPH Clearance Parameters: Sample: Separator Drain 
 	1. **pH: 9.2-9.6, Turb: <3ntu, Silica: <100ppb, Crud: <500ppb** 
 2. After chemistry clearance, increase the feedwater flow from 200TPH to 600TPH through ANB/AA/AN Clearance Parameters: Sample:

@@ -15,7 +15,7 @@ draft: false
 - t costs around 1 lakh for people staying in america come to india, so they come one or two years once.
 - Laxminarayan sir mauda
 - Satendra sir gas plant near delhi gas -- now not running
-- Korba Mauda Anoop sir options before coming kaniha
+- Korba Mauda Anoop sir options before coming kaniha, Korba from here-Kaniha you should go to champa, and from there you can to korba 
 - Delhi public school better at vizag steel plant 45 mins to vizag
 - Trijyak sir kehlgaon -- Was not in option
 - Kapil TMD sir vidhyachal – his 2nd option

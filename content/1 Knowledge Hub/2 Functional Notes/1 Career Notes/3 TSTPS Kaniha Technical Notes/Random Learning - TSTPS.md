@@ -320,3 +320,5 @@ In stage-1 we have gravimetric feeders so we don't have load cell, and we need t
 - There's a valve in 8.5mtr for isolaiton of ARV of CW pass
 - Sometimes if a pump is taking less current, venting to done, to improve current, so if air locks pump shall not take load, by doing venting, we can load the pump
 
+ - During light upBefore opening FW 71 maintain the current running both BFPs discharge pressure and so  header pressure to be atleast above 125ksc above, as while opening FW 71 the pressure gets almost get dip to almost 10ksc
+

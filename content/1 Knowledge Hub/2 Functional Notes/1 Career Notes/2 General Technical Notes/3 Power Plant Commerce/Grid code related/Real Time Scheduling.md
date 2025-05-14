@@ -57,7 +57,7 @@ may refer [[Components of SG]] for some more understanding
 #### T4- Block
 -  During this, RRAS and SCED gets calculated by NLDC and the same shall - if gets generated - gets added our component of SG
 - So, RRAS & SCED gets added
-- Note that, for odd block scenario, this RRAS & SCED gets added in T5 block starting, however, in even block sceanrio, RRAS at T5 block start, and SCED gets added at T6 block start, an additional block used 
+- Note that, for odd block scenario, this RRAS & SCED gets added in T5 block starting, however, in even block scenario, RRAS at T5 block start, and SCED gets added at T6 block start, an additional block used 
 #### T5 - For odd block,  T6 block - Even block scenario
 - They say, TRAS or RRAS or SCED gets added in T5 block - in odd block scenario, and in even block T6 block
 #### T6- for odd block, T7- Even block scenario
