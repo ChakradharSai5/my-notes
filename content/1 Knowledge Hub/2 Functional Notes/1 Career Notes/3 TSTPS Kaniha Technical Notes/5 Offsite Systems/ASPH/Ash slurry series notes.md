@@ -45,6 +45,9 @@ Series starting permissives
 - Discharge made open, 
 - Flushing manual valve made open and Flushing water pump start
 - Series pump also to be started
+### Back Flushing
+- This is done usually say for a long time, a series is in stop condition, and it is suspected that may be suction line also would have got choked
+- So, here what we'll do is, Suction shall be kept open, flushing valves made open, flushing pump shall be run, and as discharge valve in closed condition, as we did not start the pumps, and we won't, the water gets into suction pipe and comes out of suction pipe which indicates suction choke clearing
 ### Hydrocoupling and GB oil pump of pump-1
 - Hydrocoupling pump of pump-1 have a oil cooling, which gets cooled by LP seal water header, and the hot water goes back to sump
 - Gear box oil pump also there for pump-1, which also has same mechanism, where the hot water goes back to sump
