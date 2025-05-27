@@ -1,2 +1,0 @@
-- Attam movie Malayalam
-- Surya S/o krishnan - summary

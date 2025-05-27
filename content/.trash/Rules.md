@@ -1,2 +1,0 @@
-- All devices are named in such way that
-	- 

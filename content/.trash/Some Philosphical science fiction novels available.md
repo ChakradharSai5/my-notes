@@ -1,8 +1,0 @@
-- Foundation
-	- devises a way to predict future and so comes phiolosophy
-- A cantical leibowitz
-	- preserving knowledge after apocolpse
-- Anathem
-	- stephenson neal
-	- monks doing things and discuss philosophoies
-- 

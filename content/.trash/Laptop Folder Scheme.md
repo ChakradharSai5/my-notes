@@ -1,1 +1,0 @@
-![[Laptop folder Scheme Drawing.svg]]

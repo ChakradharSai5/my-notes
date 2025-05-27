@@ -1,2 +1,0 @@
-[[12rules of life]]
-
