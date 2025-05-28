@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - He is gonna do MS in France with scholorship of 25Lakh and self spending 25Lakh
 	- so total is 50Lakh

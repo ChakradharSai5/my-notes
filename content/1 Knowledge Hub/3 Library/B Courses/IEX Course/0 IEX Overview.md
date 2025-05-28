@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 The company was incorporated in 2007 and received regulatory approval from the Central Electricity Regulatory Commission (CERC) to function as a power exchange. It began operations in 2008 and has since grown to become the largest and most prominent power exchange in India
 

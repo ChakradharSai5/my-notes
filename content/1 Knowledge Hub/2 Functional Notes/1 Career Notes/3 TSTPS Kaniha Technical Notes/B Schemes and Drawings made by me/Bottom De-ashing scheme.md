@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 #pending  to excalidraw
 refer [[Clinker Grinder & Bottom Deashing]]

@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 1. During Mini OH of Unit-2, 2UA and 2UB both charged under ST-1 and also one of the bus in unit-1 is loaded with ST-1 as some UT non available
 2. To keep ST-1 load minimum, while lightup U-1 MDBFP kept in manual, and Unit-2 lightup done with one set of ID  & FD fans

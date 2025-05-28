@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - bottom must be given to certain people every year, that is rule, so they select who left from here or left company somebody like that to give that bottom
 

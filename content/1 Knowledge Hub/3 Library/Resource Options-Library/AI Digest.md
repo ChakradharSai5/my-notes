@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### Google Deep Mind on AI
 

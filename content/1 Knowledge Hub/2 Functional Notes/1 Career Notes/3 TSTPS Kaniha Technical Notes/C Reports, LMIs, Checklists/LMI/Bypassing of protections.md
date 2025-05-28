@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 # Categories of permissive and protections.
 

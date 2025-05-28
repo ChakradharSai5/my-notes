@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Ensure close of all CV and PC Gate
 - opens main steam valve 25 sec WT

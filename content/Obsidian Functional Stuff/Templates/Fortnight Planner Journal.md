@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 ### <% tp.date.now("Do MMMM YYYY") %>
 # Fortnight Start Notes

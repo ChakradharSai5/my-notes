@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### What question you are looking to get answered in this book?
 > ANS: I am looking to clearly understand and should be able to imagine the kind of physical significance of the terms mentioned in the profit and loss statements and balance sheet, should be able to explain it to some layman should be able to understand things they say in financial news and about some companies, should be able to confidently talk or explain and understand these terms and their significances, and appreciate the decisions made by big guns in business. Also I want tp see the beauty in this accounting numbers. I also want the power of way of seeing the numbers flowing, and use that to understand this world politics or business decisions in even clearer way

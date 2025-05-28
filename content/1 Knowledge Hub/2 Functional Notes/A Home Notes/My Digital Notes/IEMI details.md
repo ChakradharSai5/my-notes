@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - chakradhar S22 plus: 
 	- slot 1 :350037921310882

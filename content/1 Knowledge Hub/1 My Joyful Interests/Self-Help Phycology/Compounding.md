@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 A Rupee that doubles every day, ends up becoming Rs. 53,68,70,912 in 30 days.  
   

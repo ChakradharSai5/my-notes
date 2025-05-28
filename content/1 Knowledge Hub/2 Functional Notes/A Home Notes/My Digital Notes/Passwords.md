@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Sravya Password for Instagram: SravyaInsta
 - Sravya YouTube vanced password : Sravya@2898

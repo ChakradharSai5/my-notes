@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 # Chandragiri Plot
 - - Chandragiri land

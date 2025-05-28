@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Source of water is from Service water at 26Mtr boiler back side
 	- 2 lines hot end

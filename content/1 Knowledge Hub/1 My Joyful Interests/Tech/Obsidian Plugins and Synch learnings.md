@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### Google Project
 There's main thing called Project

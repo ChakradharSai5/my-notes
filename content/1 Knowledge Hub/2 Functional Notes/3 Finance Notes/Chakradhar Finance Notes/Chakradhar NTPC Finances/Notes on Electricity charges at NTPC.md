@@ -1,3 +1,6 @@
+---
+{}
+---
 Type of Quarter NormaI electricity charges for quarters (Rs.) per
 month
 A/I 58

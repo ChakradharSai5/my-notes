@@ -1,3 +1,6 @@
+---
+{}
+---
 ## 📌 Rule of 72 – Summary Table
 
 | **Type**                    | **Formula**                                 | **Notes**                                                   |

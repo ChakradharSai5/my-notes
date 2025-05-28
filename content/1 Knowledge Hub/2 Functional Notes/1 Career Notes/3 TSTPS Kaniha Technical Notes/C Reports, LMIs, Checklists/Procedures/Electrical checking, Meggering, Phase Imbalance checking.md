@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Meggering:
 	- Resistance measured from Body- which is earthed- to supply terminal

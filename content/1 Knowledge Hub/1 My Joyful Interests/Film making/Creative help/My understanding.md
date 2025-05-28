@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 # Rough notes
 

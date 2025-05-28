@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 #pending 
 1. Start separator motor

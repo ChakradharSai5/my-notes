@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ## Current updates of NTPC
 

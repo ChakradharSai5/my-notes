@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Erpedu land of Thatha/Bharani mama
 	- 56 Cents of land, in that only 6 cents is mentioned in the document as Thatas, remaining as some DKT, and so into litigation

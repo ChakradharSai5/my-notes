@@ -1,7 +1,5 @@
 ---
-tags:
-  - book
-draft: false
+{}
 ---
 
 ## Chapter-1 The fundamentals

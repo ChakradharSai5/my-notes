@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Idea of making business in applying jobs area with customer care and clarity, having all their details and coming up as and when required 
 	- we will take all the details of customer or aspirant, and we will see to which jobs he will be eligible to apply, as and when he gets eligible to something new we will intimate him, if he is ok, we will apply as well

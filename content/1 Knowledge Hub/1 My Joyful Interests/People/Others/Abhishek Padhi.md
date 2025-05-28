@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Abhishek padhi sir
     - He and madhukar, used data different factor like humidity, temperature, may be seasonality etc and made a model that predicts how much solar generation happens and presented a paper at O&M conference

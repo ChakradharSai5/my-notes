@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - If `HP mean rotor temperature` is above 360DegC then it will be **HOT**
 	- but if it falls below 360DegC once then it has to reach 360+70,(430)DegC above before rolling, if it does then it is **HOT**

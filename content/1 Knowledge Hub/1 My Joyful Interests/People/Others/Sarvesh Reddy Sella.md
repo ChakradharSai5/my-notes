@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - This guy stays in norway
 - It aches my heart thinking about him, cause i think it reminds me of how unfortunate i am to be having such as this stressful life, he just whoom I know personally staying in such a place of stress free.

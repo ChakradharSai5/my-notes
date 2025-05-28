@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ![[2021 OH H2 purging.svg]]
 - First we'll purge H2 with Co2 and then Co2 with Instrument Air

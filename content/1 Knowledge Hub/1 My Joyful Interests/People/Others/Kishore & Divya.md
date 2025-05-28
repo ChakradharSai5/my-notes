@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Kishore's brother who earns around 2 digit lakhs per month
 	- has started contruciton of house in bangalore with an area of 440 gajalu check [[Conversion]], so around 110 ankanas, costing around 2.5 crore something

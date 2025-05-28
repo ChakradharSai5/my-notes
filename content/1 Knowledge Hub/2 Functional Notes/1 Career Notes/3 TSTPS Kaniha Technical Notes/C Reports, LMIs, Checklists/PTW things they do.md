@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Generator Shaft voltage measurement
 	- weekly or periodly they do check voltage of generator shaft at Turbine end and excitor end, two measurements and AC & DC #ClarityLess

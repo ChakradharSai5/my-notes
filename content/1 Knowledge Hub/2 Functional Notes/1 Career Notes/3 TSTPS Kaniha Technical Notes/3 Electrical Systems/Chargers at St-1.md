@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - DCS charger is at 8.5mtr SWAS room beside at VFD controls area
     - which has rectifier

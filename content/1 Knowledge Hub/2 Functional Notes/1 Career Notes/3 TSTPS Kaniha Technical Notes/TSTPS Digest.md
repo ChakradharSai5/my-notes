@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - NN Sahoo WSG M
 - K Shety WSG M

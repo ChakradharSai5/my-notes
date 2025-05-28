@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Alternator:
 	- nothing but generator

@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - DC Motor
 	- Basically it directly follows the [[Lorentz's Law]], you see, by [[Lorentz's Law]], you just have to place a conductor in a magnetic field, that creates a force on that conductor

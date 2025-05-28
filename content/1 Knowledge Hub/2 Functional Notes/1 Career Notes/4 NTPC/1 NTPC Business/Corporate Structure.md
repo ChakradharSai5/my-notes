@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - NTPC’s current 3 tier structure comprises of Corporate Centre (CC),
 

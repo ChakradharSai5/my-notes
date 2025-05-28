@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### Car Loan
 - Car loan

@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ![[Pasted image 20250429083403.png]]
 Figure -1

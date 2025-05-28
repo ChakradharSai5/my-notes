@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Final Goal
 - As per Kinobody, mentioned in this https://youtube.com/shorts/EwJeBS_EAr8?si=V7I1OBZCp8kRlmLU, our body looks best at BMI 25
 	- but I take slightly conservative, because getting leaner and making bulk is safer and more confident path, instead of getting bulk and losing shit and leaning from there

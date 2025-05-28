@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 First I will focus on only upper body exercises and sticking to routine and diet
 

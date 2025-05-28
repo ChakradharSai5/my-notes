@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - SAIL- mostly locations in north east, which is way underdeveloped so Denish said he don’t prefer going there,
 - ONGC-15 days,

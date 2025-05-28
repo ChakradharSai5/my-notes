@@ -1,1 +1,4 @@
+---
+{}
+---
 ![[rfGrXNT - Imgur.png]]

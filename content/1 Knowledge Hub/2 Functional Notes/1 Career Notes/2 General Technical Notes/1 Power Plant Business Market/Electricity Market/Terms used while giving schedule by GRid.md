@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### GNA (General Network Access)
 - entities (power generators, distribution companies, etc.) have fair and long-term access to the **transmission network** 

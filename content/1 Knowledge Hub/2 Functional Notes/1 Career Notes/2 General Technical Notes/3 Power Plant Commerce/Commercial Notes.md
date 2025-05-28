@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ## **COMMERCIAL ASPECTS:**
 

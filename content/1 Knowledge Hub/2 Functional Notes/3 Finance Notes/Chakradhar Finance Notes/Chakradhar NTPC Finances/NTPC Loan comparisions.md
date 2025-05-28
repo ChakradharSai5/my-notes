@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### Car Loan
 ##### Comparison of Loan Cases: Simple Interest vs Compound Interest

@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 [
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=XFGAQrEUaeU&ab_channel=JeremiahContent" target="_blank">

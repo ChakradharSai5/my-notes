@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 This is from our - generator perspective the DC revision in a day for partial load loss
 For NLDC and co. perspective please refer [[Real Time Scheduling]]

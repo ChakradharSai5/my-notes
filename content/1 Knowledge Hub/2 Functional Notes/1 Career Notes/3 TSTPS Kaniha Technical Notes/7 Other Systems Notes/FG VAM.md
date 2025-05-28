@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - FG VAM CT
 	- has main source- clarified water- which he gets pressure of 6ksc.

@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 # Experience of [[TDBFP]] overspeed test
 Again ashok sir was there, after rolling solo turbine of TDBFP to rated 5680rpm around, to perform oil injection test tmd went to local, and ashok sir came from cer room and asked ok ?? i said ok I though is the speed at rated speed achieved or not

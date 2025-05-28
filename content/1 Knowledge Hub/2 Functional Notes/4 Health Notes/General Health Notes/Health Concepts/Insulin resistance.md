@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 # Insulin resistance
 

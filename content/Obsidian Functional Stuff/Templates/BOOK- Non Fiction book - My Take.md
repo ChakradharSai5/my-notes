@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 ### What is something that I don't agree with the author?
 >ANS:

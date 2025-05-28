@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - There's some  chance we may get SG below technical minimum
 	- At least as on April 2025, clear instruction from corporate to not go below 55%, at any cost

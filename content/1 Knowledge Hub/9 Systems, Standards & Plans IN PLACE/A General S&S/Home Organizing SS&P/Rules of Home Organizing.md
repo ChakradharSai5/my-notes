@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Any new device comes to home, if you feel guide is requied to be refered in future, then guide to be kept in white ikea steel drawer NTPC folder
 - If manul and bill required to kept, then keep it in files orange box in bed room-1, where we have categories of only manuals and all bills & warrantie

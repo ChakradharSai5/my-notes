@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - [[Ravi Teja]] said, vindhyachal has very good school - DPS, it is famous for that
 - vindhyachal, singrauli, are near by, banaras is the nearest city kind of far, nearest air port is also from there.

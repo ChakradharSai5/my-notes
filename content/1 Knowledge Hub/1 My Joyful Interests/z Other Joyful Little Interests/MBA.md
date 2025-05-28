@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - As said by [[Divyansh]], MBA has mostly three categories, and we will not be choosing these departments, as we go with the course, as we select our electives our department gets decided
 	- operations,

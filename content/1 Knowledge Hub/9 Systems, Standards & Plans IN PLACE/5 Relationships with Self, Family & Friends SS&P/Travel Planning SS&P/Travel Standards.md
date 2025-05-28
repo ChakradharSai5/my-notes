@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 #pending 
 1. Top most is the big zip will have pens and notes, and while journey temporarily tablet kept in it, so that while train journey or while at room/stay, whenever any non fiction book read can be noted to book, or any obsidian need from tablet

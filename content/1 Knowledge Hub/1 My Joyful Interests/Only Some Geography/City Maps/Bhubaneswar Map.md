@@ -1,1 +1,4 @@
+---
+{}
+---
 ![[Bhubaneswar Map Drawing.svg]]

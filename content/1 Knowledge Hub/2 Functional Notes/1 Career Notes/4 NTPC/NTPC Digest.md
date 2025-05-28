@@ -1,3 +1,6 @@
+---
+{}
+---
 
 - Achieved fastest 400BU in 2024-25 Financial year yet in 335days on Mar 1st, 12 days earlier than last time.
 - MOU with Chhattisgarh govt. for around 96000Cr Nuclear, RE, pumped storage

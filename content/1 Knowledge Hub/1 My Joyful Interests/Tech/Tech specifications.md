@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### Processor Notation
 - Processor of intel has basically like this

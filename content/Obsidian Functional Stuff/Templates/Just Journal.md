@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 ### <% tp.date.now("Do MMMM YYYY") %>
 ### What is something, that you thought you couldn’t may or may not do, but did it?

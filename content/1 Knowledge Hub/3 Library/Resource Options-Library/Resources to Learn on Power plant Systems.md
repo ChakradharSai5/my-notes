@@ -1,3 +1,6 @@
+---
+{}
+---
 ### Power Sector
 - For power sector related news especially in India, related to financial aspects and growth aspects
 	- https://powerline.net.in/

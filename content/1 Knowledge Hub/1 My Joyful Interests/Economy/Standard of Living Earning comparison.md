@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 How much should you be earning if you move to the US, UK or UAE to maintain the same standard of living that you have in India?  
   

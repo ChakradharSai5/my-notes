@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### Here this note is to note things I like, and to derive why I like those things, what exactly I value in that, by identifying that I can lead more such directional intentional life
 - Prasanth kishor role model, like Jordon Peterson, but Indian, that self knowing, and confidence from the knowing self and embracing self, the way he talks and the way enjoys work is what I admire, I think that's what I value- The way one works so much that they like that work - they like to be in that state of flow of that work- thinking about nothing

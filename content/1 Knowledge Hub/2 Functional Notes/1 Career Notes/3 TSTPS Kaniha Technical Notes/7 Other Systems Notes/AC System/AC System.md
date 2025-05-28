@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Protection details:
     - Trips on HP Pr. High > 18ksc

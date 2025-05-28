@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ![[Spray Drawing.svg]]
 [[Spray Drawing]]

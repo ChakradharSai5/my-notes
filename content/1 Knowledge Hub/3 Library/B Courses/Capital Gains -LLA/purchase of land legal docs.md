@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 # purchase of land legal docs
 

@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 # My diet plan
 

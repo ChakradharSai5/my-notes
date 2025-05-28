@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 # What do you want to do in this Trip??
 

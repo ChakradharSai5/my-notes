@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - https://www.instagram.com/p/C3cjOd7PSOy/
 Gundala kona

@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Bhopal is where [[Puru]] got posted, and as he said, currently dtd Apr 2024, only he is working as deputy manager there, all others are senior managers, all others are of elctrical department, only he is of mechanical,  
 - recently some people who are from C&I background were posted back to projects, saying they were not needed there.

@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 If you rent out a house, please do not make the mistake of using a “Rent Agreement” or “Lease Agreement”...  
   

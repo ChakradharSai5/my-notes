@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 #### Vegetables cutting
 - Onion cutting

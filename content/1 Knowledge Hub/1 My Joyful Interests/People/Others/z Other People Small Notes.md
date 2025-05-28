@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - when  Ramesh sinha GM in kaniha, when Awadesh, N C patra and J K tripathy were in ASCE,SCE and ASCE respectively
 - Somebody called Jaydev Nanda Adani a person used to work in NTPC now working in Adani, due to his exemplary work, he is being allowed to work even after retirement at Adani- He is frieind of [[Pradeep Das]]

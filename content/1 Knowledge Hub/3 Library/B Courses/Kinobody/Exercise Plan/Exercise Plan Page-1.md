@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - **Exercise:**
     - The two most important muscle groups for great aesthetics are the upper chest and shoulders.

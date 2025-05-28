@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Now before reading this it is recommended to read [[DC Vs AC Motor Working mechanism]], where I have explained how DC motor works
 -  Now the thing is, DC motors speed control is easy, by just controlling the DC voltage supplied to rotor, by simply, increasing or decreasing the voltage, causes the rotor to speed faster or lesser

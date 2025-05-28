@@ -1,1 +1,4 @@
+---
+{}
+---
 ![[Faraday's Law Drawing.svg]]

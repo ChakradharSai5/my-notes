@@ -1,6 +1,5 @@
 ---
 Related Pages: "[[TDBFP]]"
-draft: false
 ---
 1.  Revise [[TDBFP]] [[Pni]]
 2.  [[TDBFP]] turbine should be in barring, ensure dump valve open, recirculation CV open, Discharge valve open or close, depends on other turbine running or not

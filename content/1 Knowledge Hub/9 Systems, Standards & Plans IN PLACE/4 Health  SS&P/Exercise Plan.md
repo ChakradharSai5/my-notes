@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Compound movements
 	- Set-1 : 3-6 reps

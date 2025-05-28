@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - PC Tudu sir also did inspection job, while working in rural electrification area, as his job as project co-ordinator includes this inspection of for examples electric poles etc,.
     - while being a project co-ordinator Tudu sir worked in R&R- rehabilitation and R(?), there will be instances where he has to meet collector, and there is some kind of head to collector for 7 collectors called DPR- deputy something,

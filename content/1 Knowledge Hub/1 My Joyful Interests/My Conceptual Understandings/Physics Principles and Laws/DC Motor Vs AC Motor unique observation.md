@@ -1,3 +1,6 @@
+---
+{}
+---
 🌀 AC Motor vs DC Motor – Observations & Reasoning
 🧠 My Observations (Chakradhar’s Understanding)
 In AC motors, only the stator needs to be supplied with AC. The coils are arranged in such a way that the AC phase variation automatically creates a rotating magnetic field. This rotating field causes the rotor to rotate by electromagnetic induction.

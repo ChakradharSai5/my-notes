@@ -1,3 +1,6 @@
+---
+{}
+---
 Torque Multiplication — Core Concept
 Doubt:
 When it is said that torque gets multiplied (for example, due to reduction of gear teeth from pinion — here 8 teeth — and flywheel — 112 teeth — resulting in 14× torque multiplication), there must be some trade-off involved. Otherwise, it would violate the principle that energy can neither be created nor destroyed. Therefore, it cannot be that torque simply increases greatly out of nothing.

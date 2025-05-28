@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - I noticed Sravya facing this psycholoical compel of eing fearful and constanntly thinking hat she may hurt somebody and so being so she distacncing heerswlf from enjoying social life to a huge extent
 - This is mostly because how her parents treated while she was child. As a child she was being constatnly monitored by her mom that she will be loved only she behaves well with others, and that means to not hurt anyone

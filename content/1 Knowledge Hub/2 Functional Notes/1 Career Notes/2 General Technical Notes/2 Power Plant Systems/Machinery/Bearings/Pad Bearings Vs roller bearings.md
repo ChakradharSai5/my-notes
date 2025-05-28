@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 #pending - *what exactly are pad bearing and roller bearing how is works*
 

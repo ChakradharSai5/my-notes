@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ![[UQ1nTsL - Imgur.jpg]]
 

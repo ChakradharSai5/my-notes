@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### Diet Plan
 1. Oat meal 30gm

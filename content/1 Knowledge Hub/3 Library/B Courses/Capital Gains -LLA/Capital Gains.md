@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 # capital gains class- LLA
 

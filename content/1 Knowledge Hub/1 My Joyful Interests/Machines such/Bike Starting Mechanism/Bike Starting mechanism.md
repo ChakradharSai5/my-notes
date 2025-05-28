@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ![[Bike Starting Mechanism Drawing.svg]][[Bike Starting mechanism Drawing.excalidraw]]
 ### Gear mechanism of Starter motor  

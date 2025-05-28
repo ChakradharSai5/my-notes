@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - We have for example TSTPS Kaniha Stage-1 with 
 	- Installed Capacity 1000MW

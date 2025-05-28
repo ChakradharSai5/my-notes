@@ -7,7 +7,6 @@ excalidraw-linkbutton-opacity: 0.3
 excalidraw-onload-script: app.plugins.plugins[`excalibrain`].start(ea.targetView.leaf);
 tags:
   - excalidraw
-dg-publish: true
 ---
 
 # Excalidraw Data

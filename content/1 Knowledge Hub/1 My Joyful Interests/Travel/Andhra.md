@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Vanjangi
 	- https://www.instagram.com/p/C1LatH3PxvN/

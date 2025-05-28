@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### All Indian Power Generation
 - In all India generation 

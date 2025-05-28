@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 I was looking at the Nominal GDP of India since 1990…  
   

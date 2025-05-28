@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ## the following battery sets for various D.C. systems are in place in Stage-I.
 

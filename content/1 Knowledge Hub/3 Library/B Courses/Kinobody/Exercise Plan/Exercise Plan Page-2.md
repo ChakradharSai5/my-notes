@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
  KEY LIFTS:
     - INCLINE BENCH (for 75 kg)

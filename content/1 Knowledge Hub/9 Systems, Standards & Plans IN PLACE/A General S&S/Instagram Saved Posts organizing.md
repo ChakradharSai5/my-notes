@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### Collection made to be exclusive
 - Things to Try

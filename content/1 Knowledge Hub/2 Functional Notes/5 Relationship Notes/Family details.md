@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Siva
 	- Uttarabhadra nakshatram - Okato padam

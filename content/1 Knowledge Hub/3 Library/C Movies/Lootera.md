@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 Lootera- I really liked the movie, it gave me a vibe of calm and peaceful lifestyle,
 

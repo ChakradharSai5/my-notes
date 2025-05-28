@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Boiler trip --> Turbine trips
 - Turbine trips & Low forward power  ----> Generator trips

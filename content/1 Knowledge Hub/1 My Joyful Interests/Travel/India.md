@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
  Paragliding in Solang, Manali  
 2. Take a bike trip in Leh-Ladakh  

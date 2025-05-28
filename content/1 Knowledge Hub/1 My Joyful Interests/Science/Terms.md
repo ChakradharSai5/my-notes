@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### Tropical
 - Tropical Zone – near the equator

@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### The Problem
 - So the problem is that, any Excalidraw drawing I do here in obsidian is well and good, however as GitHub digital garden thing that I am using cannot process this Excalidraw as drawing and so will show in blog as some code, so what I want is I want an easy and simple way to create and excalidraw file in here at obsidian, but when I go to blog I want to see that as an image

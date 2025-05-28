@@ -1,3 +1,6 @@
+---
+{}
+---
 
 Typical starter motors in bikes:
 The stator can either be:

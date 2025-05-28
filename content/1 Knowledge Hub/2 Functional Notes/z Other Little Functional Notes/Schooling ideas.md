@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 In Bengaluru
 - bishop cotton school

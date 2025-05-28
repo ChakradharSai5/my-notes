@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Konark express
     - From Bhubaneswar to Mumbai

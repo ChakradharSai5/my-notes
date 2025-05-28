@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - as usual, there is changeover valve which is a wheel, equalizing valve. drain and vent for both filters.
 - first ensure standby filter drain is in closed condition.

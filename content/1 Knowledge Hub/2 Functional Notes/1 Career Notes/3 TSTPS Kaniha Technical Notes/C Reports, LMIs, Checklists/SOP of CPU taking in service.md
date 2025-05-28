@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### This is rough SOP of what I saw
 - A common line used for resin transfer for both taking from CPU to DM plant and the other way

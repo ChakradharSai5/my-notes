@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 # Write a mission and vision
 

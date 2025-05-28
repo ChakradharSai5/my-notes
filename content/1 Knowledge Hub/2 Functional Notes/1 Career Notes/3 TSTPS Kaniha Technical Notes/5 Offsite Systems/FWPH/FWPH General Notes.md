@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Sometimes Diesel hydrant pumps have no overload instead they just don’t take start
     - Sometimes it is equivalent to takin g overload, say NRV passing, it causes pump to not to take start s usually we start diesel drives at very slow speed and then we give speed rise

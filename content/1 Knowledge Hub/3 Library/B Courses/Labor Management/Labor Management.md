@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ![[TW4Trdn - Imgur.png]]
 ![[todObIR - Imgur.png]]

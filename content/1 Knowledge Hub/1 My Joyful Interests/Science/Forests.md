@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ## Step 1: Determine the Geographical Zone
 

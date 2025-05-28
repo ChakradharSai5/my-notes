@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Boiler explosion causing around 43 people dead
 - happened in Nov 2017, three officers who died in accident are blamed

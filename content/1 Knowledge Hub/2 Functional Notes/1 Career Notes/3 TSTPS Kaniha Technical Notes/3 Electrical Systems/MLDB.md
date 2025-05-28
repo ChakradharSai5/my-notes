@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - ACMLDB source is from SSS-A & B, in 12.5mtr switchgear,
 	- AC MLDB [1,2,3]- are for unit#1 &, [5,6,7]- are for Unit-2 are from SSS-A & SSS-B sourced

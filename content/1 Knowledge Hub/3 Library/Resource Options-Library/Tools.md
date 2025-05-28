@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 ### GitHub tools
 - To make wordwise for non kindle books the source of code and instruction to run is available at this Git Hub

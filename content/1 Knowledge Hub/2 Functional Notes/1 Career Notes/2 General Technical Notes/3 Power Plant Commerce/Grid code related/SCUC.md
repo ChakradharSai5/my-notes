@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - security constraint unit commitment
 - if as mentioned in [[Day ahead Scheduling]], if all after 1430Hrs, many units get below technical minimum, and they all decide to shutdown the unit and purchase the power from somewhere then there's a great chance that when frequency is low, it is difficult to pump in the power to grid to improve the frequency, so what NLDC shall do is it measures the what is called "spinning reserve"

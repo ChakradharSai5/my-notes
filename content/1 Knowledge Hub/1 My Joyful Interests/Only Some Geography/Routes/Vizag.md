@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - Main rich areas are Seethamma dhaara
 	- MNVP junction #pending 

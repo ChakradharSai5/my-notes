@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - 500MW for 24Hrs is 12mu ( Million units )
 - 500MW for 2Hr is 1 million units

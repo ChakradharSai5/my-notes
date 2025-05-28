@@ -1,5 +1,5 @@
 ---
-draft: false
+{}
 ---
 - During car repair at chandragiri of dad's car
 	- Clutch set 3800
