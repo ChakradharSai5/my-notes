@@ -12,7 +12,7 @@ Rolling exact steps and notes related to that #pending
 - Block load is 5% of TG Rating = 30 MW
 - For rolling
 	- MS temp. less than low logic
-		- if HP inlet temp. LBA10CT010 XQ50 should be more than 33DegC of saturation steam temp. of corresponding steam pressure
+		- if HP inlet temp. LBA10CT010 XQ50 should be more than 33DegC of saturation steam temp. of corresponding steam pressure #pending 
 
 
 ## Modes in TG rolling
@@ -51,8 +51,7 @@ Rolling exact steps and notes related to that #pending
         - In stage-1 our TG is built in such a way, that sometimes people charge the gland steam without opening exhaust valve, but it's going fine
         - But same thing if done in stage-2 causes severe barring stalling
 - (in gland steam scheme, admission side has manual valve in CV line not in MOV line)
-- In this mode HPBP & LPBP will not open
-    - LPBP in manual and tripped condition
+- In this mode  LPBP gets reset by itself and LPBP CV goes to auto.
 - You can keep HPBP in start up mode causing it to open to 20%
 - Reset LPBP causing it to open LPBP SV and I think to be kept in auto
 - **Now after 85ksc and 370degC achieved** and rolling clearance available with 55deg saturation margin permissive
@@ -61,7 +60,7 @@ Rolling exact steps and notes related to that #pending
 - And rolling to be done at MS/CRH 85/12ksc & 425DegC/380DegC 
 ## **No load**
 - and then put it in Nload mode( which is basically no load without excitation)
-    - in which rolling happens, and Cv opens and slowly speed increases to 3000rpm
+    - in which rolling happens, and CV opens and slowly speed increases to 3000rpm
 - Generator reset to be done from panel, at zero hour reading panels, I think two relays need to be made reset.
 ## **No load with excitation**
 - After reaching 3000rpm, kept in this mode, basically we build excitation, as while turbine rolling only we can generate excitation field, which goes to transformer and then from there as Excitation voltage, generator voltage to be increased to 21kv

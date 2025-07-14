@@ -13,4 +13,6 @@ FV = PV \times (1 + r)^t
 $$
 - The above one is the original formula from which this doubling thumb rule derived with $$FV=2 \times PV $$
 - This we round to 72 thumb rule
-![[New Microsoft Excel Worksheet.xlsx]]
+	- If you know the investement got doubled, simply divide 72 with period which it got doubled in years, you'll get interest rate
+	- That comes from [[#📌 Rule of 72 – Summary Table]]
+- 

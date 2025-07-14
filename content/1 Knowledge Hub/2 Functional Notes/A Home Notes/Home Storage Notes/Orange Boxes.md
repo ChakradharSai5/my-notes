@@ -144,6 +144,7 @@
 - wooden medium size fruit platter open
 - small Matti Deepalu x many
 - Our marriage calendar 
+- Sravya good transparent spectacles that got broken in Lenskart spectacles box
 
 ### Orange Box 6
 - 4 cotton slipper from eco retreat Bitharkanika
@@ -175,6 +176,12 @@
 - spare of Siva plastic blue ward robe joints
 - Vacuum seal bag bought by Sravya
 - Jumbo bags in small washing machine bag
+- White Cloth Bag
+	- Swimwear Caps and goggles
+	- Watch given by Sunil Mama
+	- Siva Toy rack door connecting piece spares
+- Orange laptop cover of Daily objects
+- Chakradhar Slam book
 ### Transparent Box-1 
 -  Milton hot box red
 - Siva Baby hug head gear

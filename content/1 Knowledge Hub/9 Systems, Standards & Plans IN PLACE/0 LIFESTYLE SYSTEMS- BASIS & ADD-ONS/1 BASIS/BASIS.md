@@ -18,6 +18,7 @@ Note: In Habits App, Category ----> BASE ROUTINES
 				 Timed to Night 2100Hrs and 2300Hrs
 - Do entry to blue coins
 - Do entry to Samsung Health App
+- Go for a walk after dinner
 - Do Brush 
 - Do Read a book
 ##### Office Routines - While on Duty

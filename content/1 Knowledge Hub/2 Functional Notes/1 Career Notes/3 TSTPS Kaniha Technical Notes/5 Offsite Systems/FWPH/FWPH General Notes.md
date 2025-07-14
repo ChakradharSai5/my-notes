@@ -14,4 +14,3 @@
 - Diesel Fire hydrant pump has battery back up two sets i think, 24V
 - Diesel Sprinkler pumps both also each have battery back up two sets i think 24V
 - Electric spinkler is module is located in 3.3kv Sec-C unit-1 #Doubt 
-- 

@@ -5,3 +5,8 @@
 
 - - 30% weightage inoverall indidividual performance for weekly planner
 - KPA safety target is 2 pep talks per week, 1 unsafe condition per fortnight, 1 near miss in a quarter
+### Marks Range
+- T1-93-95 
+- T2-91-92.99 
+- M1-87-90.99 
+- M2-86-86.99

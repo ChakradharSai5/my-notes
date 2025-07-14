@@ -10,14 +10,13 @@ Delta P= − (∑ ULSP)
 ![[p8rcac8 - Imgur.png]]
 
 ## AGC
-
-- Primary control – RGMO/FGMO
+Primary control – RGMO/FGMO
 
 Secondary control – AGC
 
 Incentive @ 50ps/kwhr of over and above normative energy
 
-Teritirary control-  [[RRAS]]
+Tertiary control-  [[RRAS]]
 
 - Here at kaniha, in CMC, the MW demand signal that is getting generated is
 	- Setpoint - AGC correction
@@ -27,5 +26,5 @@ Teritirary control-  [[RRAS]]
 
 
 ### AGC benefitting logic
-- As per our EEMG, TSTPS Kaniha is performing not upto mark in AGC performance, they'll see how much our AG is following AGC and percentage of accuracy following shall be calculated, based on that incentive shall be given
+- As per our EEMG, TSTPS Kaniha is performing not up to mark in AGC performance, they'll see how much our AG is following AGC and percentage of accuracy following shall be calculated, based on that incentive shall be given
 - Now the thing is as per sudhanshu EEMG for St-1 TSTPS especially, it is not recommended to give SP more than 502MW, if we do we are loosing on performance(I don't know why), also said, that 2MW given, because APC is higher

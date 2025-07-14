@@ -3,4 +3,9 @@
 ---
 - iOS every year gets released in mid year, around July august
 	- current 2024 ios18 is running
-- 
+- WWDC
+	- **WWDC** stands for **Worldwide Developers Conference**, an annual event hosted by **Apple Inc.**
+	- **Apple's biggest developer-focused event** of the year.
+	- **WWDC is held annually in the first or second week of June.**
+	- **Announced around April** each year.
+	- The event runs for **5 days**, with the **keynote on Monday**.

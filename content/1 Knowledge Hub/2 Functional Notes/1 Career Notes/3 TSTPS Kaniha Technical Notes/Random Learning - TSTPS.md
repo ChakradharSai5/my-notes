@@ -320,4 +320,11 @@ In stage-1 we have gravimetric feeders so we don't have load cell, and we need t
 - Sometimes if a pump is taking less current, venting to done, to improve current, so if air locks pump shall not take load, by doing venting, we can load the pump
 
  - During light upBefore opening FW 71 maintain the current running both BFPs discharge pressure and so  header pressure to be atleast above 125ksc above, as while opening FW 71 the pressure gets almost get dip to almost 10ksc
-
+### Equipment stopping details
+- Barring can be stopped at HP Shaft Temp < 110DegC
+- Last CEP to be stopped at LP inner casing termparature < 95DegC
+- Control fluid pumps can be stopped after closing LP Bypass valve
+- One CW pump to be stopped after 2 hours of shut down
+- All CT Fans to be stopped after boiler shutdown
+- Vacuum pump stopping and Gland steam killing after boiler depressurization
+- 

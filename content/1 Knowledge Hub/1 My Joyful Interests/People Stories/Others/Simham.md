@@ -1,0 +1,24 @@
+---
+{}
+---
+- Simham did not taken home loan from NTPC, purchased a house of 75lakh in Vijayawada, taken home loan SBI 50lakh loan, and with down payment 25 lakh
+- As loan taken in the name of his father, but, being paid by Simham, he could not transfer loan to NTPC
+##### Simham Manali
+- Mostly people go to Solang valley
+	- Crowdy place, many activities will be there to do
+- Athal tunnel
+	- because of this, Leh is easy to go now
+	- Road may be not so good, scenery is very good
+- He didn't go to Leh, 
+- He went to halfway to Leh by Bus, he booked by online, in HRTC Website
+- He went to Keylong by bus, is town near manali, more remote and serene, 
+- He suggested to go to Keylong by car, you can stop by snow point  - non-commercial
+	- Even after 3 pm also, very cool
+- Crossing keylong - bhuddist monasteries will be there, we have to go there by walk
+- From Keylong you can go to Leh but 12Hrs bus journey, if you don't want that, you can come back to Manali 2-2.5Hrs.
+- Manu temple, Vashitshta temple, Hidimba temple
+- Old Manali - Artisans, Craftsman, Forts.
+- Adventure - Kullu - kinda loya - From Kullu just some stops ahead we have Parvati Valley - hot water spirng will be there in Parvati valley - activities will be there, Manali - paina, that's why called Kullu Manali 
+- Parvati Valley near by another valley called Ireland of something, - very narrow valley, very steep - Simham went there, bottom part people camped there
+- Dharmashala - Simham went here - Dalailama will be there, 
+- If with parents - Go to Brindavanam

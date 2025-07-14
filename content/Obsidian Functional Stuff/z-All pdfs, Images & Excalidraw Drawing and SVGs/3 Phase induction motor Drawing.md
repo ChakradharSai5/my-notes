@@ -1,9 +1,28 @@
 ---
+
 excalidraw-plugin: parsed
-tags:
-  - excalidraw
+tags: [excalidraw]
+
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 
-[[3 Phase induction motor Drawing]]
+# Excalidraw Data
+
+## Text Elements
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGeO0ABho6IIR9BA4oZm4AbXAwUDBSiBJuCABFQgB5AAUADWwAMThcegAJAHUAUWIAIQBNegAWISqjNNLIWERKx1x9TmJp
+
+ssxuZ3iATlHtAFYAZgA2Q9Hj0cP9/fOADlv+MphN+OOk5PjR+OTjgHZ95Kje48B5FSAUEjqbjxQ7bbQ8eL7Y7bW48UYI27/R6QSQIQjKaTcHjJX7aW6XGHbC7kw5YsEQazKYLcZLYiDMKCkNgAawQAGE2Pg2KRKgBieIICUStaQTS4bDc5RcoQcYgCoUiiSc6zMdqBHIyiAAM0I+HwAGVYMyJIIPIaOVzed1IZIiWyHTyEJaYNb0LaKmzlQSOOE8
+
+mh4my2O1sGpnuHkqz6UrhHAAJLEMOofIAXTZRvIWXT3A4QjNbMIqqwlVwqUDwlVIeYmZKM2g8HEvDBAF93QgEKtw79RrtftsQb82YwWOwuOHDpOmKxOAA5ThibgXH6jI7Jfbl5gAEQyUH73CNBDCbM09eIvWCWRymZLZfpQjgxFwJ4HqHi/x4aMSZJUUOCN6SIDhuWLUt8DZIUFVPNBz3wMIii7cBczoXA4DgS1Pw7FtoFxLJKiIAkoDWBhCAQCg
+
+BnlRVlVVdVhTFI1WLYijsBEfUoFTE99EtR1+UFZiJHFSVxI4rjsh4vjaIVZMVTVYTNXQbUOF1XBuMk0huN4zIWlNC0rQ7dlBQDIoIE4nTpL0/jOU9Z1iChNA+AsqzdL4gTPW9X1TLtR5LKknJbIAJWEYNQ2hAL3JsvjamjWNoQTaKgpk/TOCgFollNONUD3NzUtsloMvNQgjA7YkUus4K+IAFSwKAAEFSNndBgiNciqo8zJcNIJqdLYChcVwb9nx
+
+ggrqrS/RelVRqBqGkJvwZebtO6/Q5q5ChavbSoGNWALmGwLkzUabhhz2D5rkOM5Rl+HhjiRA6jsFfAhiJW44SpU4gP2bZaXysojDYAxuBbSB6AIIQO3iVCutizIwsUxtMwgPaKKVEhSvKolEzKDHiEtBA4G4AHIHxgBZNhiAQGbcE0YJvyQy8LPxpiVLBiABkFJbSGUOUAAoEQnXhf2oEXheSA4AEpDRChBlFLTTdr53BBcOVleHVsWeC11BJf2G
+
+XYYm7ivN5eKoBnJ9oIC/MlgQOXK1ICtlFB+lsjphnuE5KG2WwIhibQb2EDZDg7a90gffpYQoHAjsg6Nso7AAKwQbBcnNUO4Ep6nafphDUCZ4OLPlC3GFq4H8Fd1s5hMsJgjTmdDU4jkDG2+Y0DG2C2HgxmLyL1t8wMc0Mgbzgzz72DQiahuy4rqCzVQ8AezoE1gmbNCuyAA=
+```
+%%

@@ -1,0 +1,23 @@
+- Established in 1969
+- 1975 - First launch of satellite Aryabhat - indigenous through Russian laucher
+	- Satellite suffered a power failure after launch
+- 1980s & 1990s SLV and ASLV made but were failure
+- Succesful with PSLV - Polar - for smaller pay loads, fame for low cost high effieceint
+- Then GSLV - Geosynchronous SLV - to go for higher heights 
+	- Requied cryo engine, which is suppose to get from Russia, but stopped by USA indirectly with MTCR - Mission technology control regime
+	- So made indigenous and got successful
+	- In 2014, indegiions GSLV with Cryoenginve sucessfully launched
+	- Now india is small capable nations capable of sending  heavy satellites to orbit
+		- USA -NASA, Russisa - Roscosmos, Japan - JAXA, China- CNSA,  Europe - ESA
+- 2008 Chandarayaan-1
+	- Confirmed water molecules in Moon
+- MOM - Mars Orbitor Mission - or Mangalyaan
+	- Launched in 2013
+	- Cheapest, costed 74Million Dollors, Gravity movie cost 100million, and Martian Movie cost 104Million Dollors
+	- First Asian to reach Mars
+	- NASA Maven Mission in 2013 - Same year costed 671million
+- 2023 - Chandrayaan 3 
+	- first ever to launch on South pole
+	- Vikram Lander and Pragyan rover
+- Future projects 
+	- Gaganyaan - with Astronauts

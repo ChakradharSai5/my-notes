@@ -1,0 +1,7 @@
+- Simply there is something called demand, and that's is something that shows the requirement from External(not from self sealing)
+- Demand shall be initially 100, that means, we want full supply of gland steam source from external source - Not from self sealing
+	- Initaly with Demand 100 = Admission valve 100% open, and Exhaust valve 0% (Makes sense because we want full seal steam from external, hence admission full and exhaust in full close to pressurize )
+	- This Demand (as it is external demand of steam) gradually reduces with 
+	- Hence from Demand 100 to 50 = Admission valve 100 to 0%
+	- Then   from Demand 50 to 0 = Exhaust valve getting closed from 0 to 50%
+	- By 0 it means, the turbine got self sealed and there's no demand for steam, and over that the self sealed pressure is also too much that the exhaust had to be opened full

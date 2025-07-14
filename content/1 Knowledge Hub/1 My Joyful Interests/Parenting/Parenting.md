@@ -31,7 +31,7 @@
 	- https://www.instagram.com/p/CrDwjO2Mg35/
 
 
-Scaring a kid to leave him, if he dosen't listen to come with you leaving a place, From insta post
+Scaring a kid to leave him, if he doesn't listen to come with you leaving a place, From insta post
 			-  https://www.instagram.com/p/CrDwjO2Mg35/
 		you’re on a walk with your toddler. You need to get dinner on, the baby is screaming, & your toddler is walking backwards while looking for worms, despite asking them to get in the stroller many times. ⁠  
 		⁠  

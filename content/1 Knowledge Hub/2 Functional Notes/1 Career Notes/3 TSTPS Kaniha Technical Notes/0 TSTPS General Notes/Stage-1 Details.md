@@ -7,7 +7,7 @@
     - H2 Dew point 10C, and purity >97%, in OE handbook pg 140
 
 ### Main TG:
-
+- ABB Company manufacturer
 - HP T 16 stages
 - IPT 2 x 16 stages
 - LPT 2x 5 stages

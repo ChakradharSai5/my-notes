@@ -1,0 +1,1 @@
+![[ECR of NTPC Plants 1.jpg]]

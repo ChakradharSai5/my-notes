@@ -1,15 +1,14 @@
----
-{}
----
-As per C-OS light up reports
-*Hot startup time lines*
+- Experience of  [[Lightup experience#When one UT was not available]]
+##### Lightup timings as per C-OS
+- As per C-OS light up reports
+***Hot startup time lines***
 Light up to synch
     , as per curve 40mins
 synch to 350MW
     , as per curve 20mins
 and rolling to be done at 110/20ksc, & 510/510DegC
 
-*Warm start up time lines*
+***Warm startup time lines***
 Lightup to synch
     , as per curve 100mins
 synch to 300MW

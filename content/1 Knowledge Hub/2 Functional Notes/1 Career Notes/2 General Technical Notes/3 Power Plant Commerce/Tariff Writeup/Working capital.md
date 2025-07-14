@@ -1,7 +1,7 @@
 ---
 {}
 ---
-
+	
 -Is added to fixed costs, as it like things bought and kept with us, so that amount kind of always locked
 and so the interest we get for that also gets added as fixed example, say for spares, the oringial equipments 
 any way is gonna come under O&M expenses in Fixed cost, or original fuel cost comes under variable cost, however

@@ -1,0 +1,11 @@
+- You know during covid about Modi thing, he asked people to switch off light off and switch on at 2100Hrs for 10mins
+- And to handle that Grid India- POSOCO has to have to make a plan 
+ Their plan:
+- They have collected data from previous sunday from 2100Hrs to 2109Hrs, 
+	- They calculated in two ways, they have seen the rise of MW demand from late evning (from around 1800Hrs) to night, made inference that that is what is the power demand from household
+	- They did anohter calculation which by calculating number of households and with urban rural consumption of each household and in that assuming they swtich off lights and stuff, how much that would be aroud, like that they made calculation
+	- Incidentally, both came about 11-12GW, so they planned so accordingly
+- So they gave instructions to strictly follow SG and well before thsi 2100Hrs, made hydro & Gas up and running, so that when Demand goes down to rapidly can be made down with Hydro and Gas
+- By 2045Hrs, Hydro and Gas made ramp up full and thermal to base load, and did this feat and so by 2100 to 2110Hrs down with Hydro and Gas and again same way up with Hydro and Gas. It worked.
+- And so frequency 50.29Hz to 49.97so great feat by POSOCO
+- 

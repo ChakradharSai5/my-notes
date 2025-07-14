@@ -1,8 +1,6 @@
 ---
 title: Chakradhar Digital Garden
-
 ----
-
 
 ![[Jon Snow.jpg]]
 

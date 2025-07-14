@@ -1,6 +1,7 @@
 ---
 {}
 ---
+##### LPBP trip while shutdown
 - I have done Unit-2 shutdown dated 21-06-2024
 - During which what happened is, Kasi sir was there 
 	- we took HBBP in manual, and I made it open to around 15%, he took unit in MW  control, decreased load SP to 200MW, yet load was maintaining around 250MW, and load was decreasing, by controlling HP CV (LPBP still in auto)
@@ -18,8 +19,7 @@
 	- Later after S panel checking by BMD, 3 oil guns taken O/s in level-1,(taken at start of S/d).
 	- MFT done, by pressing EPB and then, FW 71 closed and then  FW decreased to 300Tph, kept for 30mins around after Unit trip
 
-### After shutdown things
-?
+##### After shutdown things
 - Refractory shall be removed when BMD opens the boiler manhole door to put sky climber while attending boiler tube leakage
 - this refractory is again will be patched or built after attending the leakage, while removing sky climber parallelly
 - need the know the need of removal and how exactly it is
