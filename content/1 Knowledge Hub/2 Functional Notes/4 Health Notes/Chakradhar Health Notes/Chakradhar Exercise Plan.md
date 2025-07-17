@@ -13,4 +13,14 @@ And from here our calculation starts, now for this 70kg ideal weight,
 		- In that 
 			- 35% Cals from Protein, ~150gm
 			- 30% Cals from Carb  = ~150gm
-			- 30% Fat = 55gm Fat![[Kinodboy Aggressiv Fat loss.pdf]]
+			- 30% Fat = 55gm Fat
+
+### Plan
+- Bulking is best unless you are very much obese
+	- https://www.youtube.com/shorts/0dzEIzkgqK0
+### BACK & BICEP
+- BICEP Curl - Kashish Gupta
+	- https://youtube.com/shorts/n1MIwJ0pMsk?si=0iva0g2s7CbYupjZ
+### Shoulders
+- Do shoulders fresh, try not to do Shoulders on the day Chest is heavy - Kinobody
+	- https://www.youtube.com/shorts/UhQBNrC9Rp8

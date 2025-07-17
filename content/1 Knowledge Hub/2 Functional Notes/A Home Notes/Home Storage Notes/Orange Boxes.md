@@ -116,7 +116,6 @@
 	- Thin Big x 1
 - Medical masks
 - Brown Head massager pillow - rechargeable
-- Sravya InstaCuppa
 - Wooden Key holder
 - Plastic Grey rack floor like newspaper spread in rack
 - Treo glass many boxes of different sizes many

@@ -67,6 +67,9 @@ J C Gartia - C&I
 - Pradip Kumar Hoon currently in HR -Kaniha is from Barauni from operation dept, his native is Delhi
 Rohit BMD Kaniha
 -  He worked in private plant, joined as GET -  
+Dileep ji ICH Bhubaneswar
+- Has two sons, one studying inter second year, other in 7th class in 2025 June
+- Both at Barhampur, living with his cousin or brother staying in hoste
 
 
 

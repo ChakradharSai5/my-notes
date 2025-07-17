@@ -6,6 +6,8 @@
 	- This 2.5 crore he took loan I think from HDFC bank, where his friends or somebody working, so though he is not eligible as per rules for this much amount of money, he took by doing some jugaad - 
 	- for just home theatre around 40-50 lakhs
 	- ground floor itself is around 20 feet high
+	- His house is near Whitefield.
+	- Now they are currently at marathalli near, which is posh area and in 2BHK-they own now, and they are planning to get 70k per month rental on that
 - Divya amma side are 3 siblings, 2 peddamma and 1 mama
 
 

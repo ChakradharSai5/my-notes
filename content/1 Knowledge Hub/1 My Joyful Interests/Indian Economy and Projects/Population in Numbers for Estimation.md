@@ -1,0 +1,2 @@
+- Chandragiri population 30k as of 2022
+- 

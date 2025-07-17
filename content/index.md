@@ -11,7 +11,7 @@ title: Chakradhar Digital Garden
 [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/]]
 
 #### Pending Place
-[[Pending Place]], [[Pending Place-2]]
+[[Pending Place]]
 
 [[1 Knowledge Hub/3 Library/Resource Options-Library/]]
 
