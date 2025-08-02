@@ -21,7 +21,7 @@ Before 2017 there is only DC, SG and AG only, after 2017, now, there are many co
 	- Earlier - before IEGC 2023, if a beneficiary surrenders 100MW we cannot sell in DAM, unless there is consent from beneficiary - which we cannot be sure we can rely on, hence in IEGC 2023, they have added a clause stating, if beneficiary surrenders, we can blindly can bid that in DAM without any consent from beneficiary
 	- Bidding gets completed by 1100Hrs
 - Though bidding gets completed b y 1100Hrs, some other shit - which we don't need to know  happens at 1145 & 1215Hrs and then
-- At 1300Hrs, NLDC publishes schedule, which has two components obviously - ISGS (which is benefircy component) & DAM (which we gave the surrendered part for bidding)
+- At 1300Hrs, NLDC publishes schedule, which has two components obviously - ISGS (which is beneficiary component) & DAM (which we gave the surrendered part for bidding)
 	- Interesting part is on any D-1 day, if we check for D day, after 1330Hrs in NLDC schedule for our plant, we can see ISGS and DAM component.
 - Now from 1400Hrs to 1430Hrs, something called SCUC shall happen, which we will see as follows [[SCUC]]
 - After DAM revision, then Generators shall have no option to change DC, however beneficiaries shall have right to change SG after 1430Hrs i.e. after SCUC, they can do up or down,
@@ -33,9 +33,9 @@ Before 2017 there is only DC, SG and AG only, after 2017, now, there are many co
 	- this is unfair, so they made amendment in IEGC 2023, 
 		- first amendment, they made rule that after 1430Hrs, beneficiary can reduce up to their own 55%, however this still did not solve the problem completely, as it is so may happen that the one of many beneficiary's 55% might be less than 55% of generators
 		- Hence, another amendment came, where they said that the beneficiaries' can reduce SG after 1430Hrs, only up to limitation from generators 55%, which shall beg the question how to distribute, simply, based on the beneficiary's ratio of SG they have given, it is derived by simply ratio of their SG
-- It is imperative to note that, this all works after 1430Hrs, to save us from having SG below technical minimum, however there's a chance we might get SG below Techmin before 1430Hrs, which may or may not get compensated by [[SCED]] or [[SCUC]] or [[RTM]]
+- It is imperative to note that, this all works after 1430Hrs, to save us from having SG below technical minimum, however there's a chance we might get SG below Tech min before 1430Hrs, which may or may not get compensated by [[SCED]] or [[SCUC]] or [[RTM]]
 - We have discussed up to 1430Hrs, from here to 2355hrs, many things happen related to RTM, SCED & Ancillary services, we don't need to know that
-**NOTE**: From here that is 2335Hrs, we can say real time starts, we say so, because, for 00Hrs, the process of running software for calculating stuff related to RTM or Network, all these real time things, shall start and finalize from 2335hrs, is what I understood, and final shedule gets published by RLDC and D-day starts at 0000Hrs
+**NOTE**: From here that is 2335Hrs, we can say real time starts, we say so, because, for 00Hrs, the process of running software for calculating stuff related to RTM or Network, all these real time things, shall start and finalize from 2335hrs, is what I understood, and final schedule gets published by RLDC and D-day starts at 0000Hrs
 
 
 May refer [[Components of SG]], for even better understanding 

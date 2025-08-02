@@ -70,6 +70,9 @@ Rohit BMD Kaniha
 Dileep ji ICH Bhubaneswar
 - Has two sons, one studying inter second year, other in 7th class in 2025 June
 - Both at Barhampur, living with his cousin or brother staying in hoste
+Bala subramanyam / Balu
+- Did MTech in Solar, or being done in distance I guess
+
 
 
 
