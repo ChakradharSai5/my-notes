@@ -50,13 +50,13 @@ It works in three levels
 ### Medical Claim Till Now
 - This is simply the transactions of medical claim approved, this shows total amount of Medical claim I have recieved from NTPC in the past two years
 ### Debt Pending
-- This is simply the "Debt Given To" transactions that are money yet to receive from the indebtors
-	- This simply shows how much I have yet to receive from indebtors
+- This is simply the "Debt Given To" transactions that are money yet to receive from the in debtors
+	- This simply shows how much I have yet to receive from in debtors
 ### Medical Claim To Be Applied
-- This is simply transactions that are medical claim transactions like consulation fee, medicines purchase, testings fee, etc which are I think eligible for Medical claim
-	- Note that once I apply and get it approved or rejected, accordingly this lablled transaction's label shall be changed to either Medical claim till now or simply no lable incase of rejection of medical claim
+- This is simply transactions that are medical claim transactions like consultation fee, medicines purchase, tastings fee, etc. which are I think eligible for Medical claim
+	- Note that once I apply and get it approved or rejected, accordingly this labeled transaction's label shall be changed to either Medical claim till now or simply no label incase of rejection of medical claim
 ### Check REFUND
-- This by defualt I make it for all transactions of OTE, then later I will remove, which I think are not characterized to be refunded
+- This by default  I make it for all transactions of OTE, then later I will remove, which I think are not characterized to be refunded
 	- This is most used label, as whenever we order from online, this gets added, and after completion of purchasing or returning the item, this shall be removed or transaction is removed accordingly
 
 ---

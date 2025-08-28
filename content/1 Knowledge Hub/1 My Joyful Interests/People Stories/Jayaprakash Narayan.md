@@ -1,0 +1,2 @@
+- He's not nostalgic, he goes with flow,  he's not like people who think old times are good, he believes they are good and bad in old times and new times, also overall now are good times compared to old times is what he believes
+-  

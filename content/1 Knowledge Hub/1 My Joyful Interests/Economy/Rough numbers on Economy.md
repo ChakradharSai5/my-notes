@@ -1,0 +1,5 @@
+- India's annual GST collection for FY 2024-25 is around ₹22.08 lakh crore (₹22,08,861 crore).
+- At an exchange rate of ₹83 to $1, GST revenue is approximately $265 billion USD.
+- GST collection accounts for about 6.3% of India's $4.19 trillion nominal GDP.
+- Monthly GST collections in 2025 have consistently crossed ₹1.9 lakh crore.
+- Record GST collections have shown year-on-year growth of about 9-10%.
