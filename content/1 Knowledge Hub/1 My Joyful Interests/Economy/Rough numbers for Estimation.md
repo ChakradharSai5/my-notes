@@ -1,0 +1,1 @@
+- - India's Gross GST in 2024-25 is roughly 22Lakh crore in 2024-25

@@ -1,0 +1,2 @@
+- By definition it means the amount of heat required for temperature of water to rise from 1
+- 
