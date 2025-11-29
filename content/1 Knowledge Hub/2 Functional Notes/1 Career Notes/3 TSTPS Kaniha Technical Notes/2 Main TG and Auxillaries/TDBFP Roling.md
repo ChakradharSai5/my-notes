@@ -1,7 +1,7 @@
 ---
 Related Pages: "[[TDBFP]]"
 ---
-1.  Revise [[TDBFP]] [[Pni]]
+1.  Revise [[TDBFP]] [[Mills and APH]]
 2.  [[TDBFP]] turbine should be in barring, ensure dump valve open, recirculation CV open, Discharge valve open or close, depends on other turbine running or not
 3. give engage command, coupling pump should start, ensure in local that pump got started, there's a panel in local for coupling pump
 4. engage feedback comes, ensure pump rotation as turbine still in barring- by seeing in local that pump is actually rotating slowly

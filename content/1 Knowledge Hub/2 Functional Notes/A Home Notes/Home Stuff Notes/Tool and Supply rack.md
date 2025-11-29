@@ -1,0 +1,18 @@
+- There's three Brown small Boxes here, all three racked on top of each other
+	- One for all Adhesives
+		- Fevi Kwik to Fevicol
+	- One for all Tools of repair
+		- Knife
+		- Screw driver
+		- Screws & Slips etc.
+	- One for all spares and honing tools, like
+		- Specs spare
+		- Lock and key spare
+		- Bike key spare
+		- Ikea knives honing tool etc.
+- Black tool box of spanner, cutting plyer etc.
+- Also this rack left side has Medical supply boxes
+	- One for all tablets only
+	- One for all sprays, ointments, syrups etc.
+- Also there's a laundry bag, on the black tool box, which has all types of covers, big ones, to small ones, just in case.
+**NOTE : Back side of this rack, I kept spare and other not so frequently used tools and equipments, like spare drilling bits, may extra tapes etc.**

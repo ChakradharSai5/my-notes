@@ -8,3 +8,4 @@
 - Hopper gates opening logic at 3-4ksc, we usually get around 7ksc from BALP![[FcSZm1k - Imgur 1.png]]
 - AD and BC is we'll take in service for doing bottom ashing
 - Clinker grinder seal water pressure requried to protect gland, otherwise gland gets heated and so gets damaged
+- Seal trough continously water to be made overflow to ensure, contionous water into as some water gets dried up due to heat from boiler, and that overflow line is kept at near CG-D side.

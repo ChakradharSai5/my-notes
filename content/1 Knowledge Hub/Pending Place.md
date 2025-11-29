@@ -6,3 +6,5 @@ Checkout
 - Interview between Robert Downey and Mark Ruffallo on variety "Hats off to you man!!"
 - Checkout an app called Radar bot which shows speed limitations as you are going on highway
 - Checkout : https://vaalga.com/collections/oil-spray for buying cooking oil spray
+#### Goal
+![[1762139317424.png]]

@@ -25,3 +25,4 @@
 - defects in that still air charging noted down
 - then inlet and outlet gates opened, after that
 - complete charging of fields done
+- Fields are charged after opening gates, especially downstream temperature maintaining above 120DegC according to Stage-2 LMI
