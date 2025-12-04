@@ -1,0 +1,5 @@
+- To attend the Boiler tube leakage at Eco, for welding as we know, they don't want air to suck in or air to blow out, they need exact still air as much as possible, to help for welding 
+- But during BTL, we couldn't get that kind of exact still air at eco, so we did is, what we are suppose to do is, we need to close vents and drains connected to that water wall and spiral, as that will stop the natural draught causing air to suck in
+- we did all that, however the air still blowing air out.
+- So what we did is we started the vacuum pump, and opened AA slightly, causing, through separator which is connected on upstream to Eco, started air to sucking in, and that got some air to get sucked and helped in getting still air helped for welding
+- 

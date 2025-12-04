@@ -2,20 +2,21 @@
 {}
 ---
 - DC Motor
+	- Think of it this way, to remember how the mechanism works DC motor, start like - In a DC motor we know we give DC input and that gets converted to mechanical output right?, now just by giving a constant current the only law that talks about acting force on a physical wire just by sending current in [[Lorentz's Law]], so that's it.
 	- Basically it directly follows the [[Lorentz's Law]], you see, by [[Lorentz's Law]], you just have to place a conductor in a magnetic field, that creates a force on that conductor
 	- Now if I place a loop wire it rotates, but the thing is, how can I physically place a wire and conduct electricity through it and not let it get folded by itself
 	- so for physical handling reasons, we need a commutator, which means it is like a ring, which is divided in half, you can google it, it simply two halves connects two ends of wire
 		- and then we will have a brush, which is connected to + and - polarities
-		- which makes when commutotor rotates after half rotation it comes in contact with other polarites and so the rotation continues, you can simply google commutator image you'll get the idea
+		- which makes when commutator rotates after half rotation it comes in contact with other polarities and so the rotation continues, you can simply google commutator image you'll get the idea
 	- Now the thing is, here we supply electricity to wire through brush, and we will place this wire in magnetic field, either permanent or temporary, and that forces the wire to rotated and after half rotation as the polarity changes the rotation continues and so electrical energy converted to mechanical energy
 - AC Motor
-	- AC motor works on different mechanism, here, you see, we must give AC supply and that should convert to mechanical energy - Think of it this way
-	- here, what we do, is, we will use Faraday's law, [[Faraday's Law]], as per it, change in magnetic field creates EMF, and in turn passes current in such a direction as per [[Lenz's Law]]
+	- For this also, to remember this working mechanism, just follow like, when we say AC motor, that means, we will give 3 ph-AC supply and we want our thing to convert it to a mechanical energy, so we know by giving this 3 ph-AC supply each phase to each coil with 120Deg apart in stator, shall make rotating magnetic field, and placing a coil in this, shall create an EMF across this coil(as change in magnetic field), but note that we intentionally kept the coil closed(squirrel cage) so that current flows in it, and so this current shall make physical rotation by [[Lorentz's Law]], as this current in coil is in magentic field presence. but as it rotates, this continues, it cannot stop for sure, because say it stopped, but the rotating magnets from stator changes in that stagnant coil, causing current to flow by [[Faraday's Law]], and this current give [[Lorentz's Law]] force and so it moves.
+	- RE-EXPLAINED BELOW
 	- So you see, what we'll do is, we will send this AC current to stator, where this wire, which we call coil is placed in 120Deg angle gap as ~
 	- by sending current through this it will generate magnetic field, and say if I am sending DC then magnetic field stays constant
 		- but as we are sending AC, the magnetic field also varies
 		- And so with varying AC current Magnetic field also varies, and these currents are also phased exactly 120Deg apart the magnetic field also increases and decreases and changes polarity in smoothly at 120Deg gap interval
-		- now you see, say if a place a wire here, by [[Faraday's Law]], we know current will pass in that wire, and when the current passes as it is already in magenetic field by [[Lorentz's Law]], it will generate physical force on the wire to rotate
+		- now you see, say if a place a wire here, by [[Faraday's Law]], we know current will pass in that wire, and when the current passes as it is already in magnetic field by [[Lorentz's Law]], it will generate physical force on the wire to rotate
 		- So, it is a cycle, where this rotation causes the magnetic field to vary on itself, and this varying magnetic field in that wire causes current to generate, and this current generation causes it to rotate as it is in presence of magnetic field, and this continues
 	- Of course it stops if the wire reaches a position exactly matching with the rotating AC phase, but if it stops again the varying of magnetic field occurs, and so causes it to rotate so the wire moving is always tries to reach the speed of AC phase supply, but always just a little lagged behind it
 
