@@ -10,12 +10,12 @@
 	so that there should be no voltage coming from either end, as they work in that bus
 - And usually, we give a bus and corresponding transformer at a time, so that that transformer unavailability due to bus non availability can be exploited.
 - So here whiling giving SA Bus we also gave Start up transformer
-As per drawing seen from [[Unit-1 and related OFS SLD]], we are suppose to isolate breakers in SA bus, one in SB bus, and a breaker connected to 220kv switchyard, and in downstream to SA bus an incomer bus at Miscellaneous Switchgear connected upstream of Start up transformer.
+As per drawing seen from [[Unit-1 and related OFS SLD Sketch]], we are suppose to isolate breakers in SA bus, one in SB bus, and a breaker connected to 220kv switchyard, and in downstream to SA bus an incomer bus at Miscellaneous Switchgear connected upstream of Start up transformer.
 
 The breakers at SA, SB bus, and at Miscellenous switchgear were simply racked out and DC off, like regular HT breakers
 however for 220kv side CB it think CB 252, and this is peculiar
 ##### Isolating CB 252 connected to 220kv Transfer bus
-- First, In switchyard control room, identify the drawing on the big control panel, identify  corresponding isolators, and earth switches, in our case, 252CB, 289T - isolator in transformer side, 289A/B/C as can be seen in [[Unit-1 and related OFS SLD]]
+- First, In switchyard control room, identify the drawing on the big control panel, identify  corresponding isolators, and earth switches, in our case, 252CB, 289T - isolator in transformer side, 289A/B/C as can be seen in [[Unit-1 and related OFS SLD Sketch]]
 - Now after identification, you will know which bay it is, I think it will mentioned there, or ask the switchyard operator, he will let you know which bay it is, and that bay particular key shall be in that key hanging place in that control room, that bay key is must, that one bay shall open all that corresponding bay located breakers, isolators, earth switches local control box
 - Now, we went to our required CB 252 bay with that bay respective key, first we unlocked that CB local control box, and I think there is provision of selection of DC on/off and selection of Local or remote, and usually DC shall be off and selection shall be in Local - For breakers I don't remember, but one thing for sure, the selection is to be in remote, and then, we call switchyard control room they trip the breaker from the switchyard control panel I told you about, while we stand little far from breaker, as it makes a good enough sound.
 - For isolators and earth switches, it will be like this shown below here , DC, power switch, operation selector switch, all three in off usually![[20251213_084505.jpg]]
