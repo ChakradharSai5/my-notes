@@ -1,0 +1,10 @@
+- The DC control supply of Fly ash MCC is gone, resulting in all drives running feedback gone
+- For series, as drives are in service, the slurry level is maintaining perfect, however all drives currents are not shown.
+- Problem is in Fly ash MCC some of the drives are CHP conveyors, you know in CHP conveyors, if one conveyor trips, all the pre-ones are suppose to trip as per C&I logic, because if don't then severe chute blocking occuers
+	- However here as only the conveyor running feedback gone, NOT tripped, the other conveyors running, seeing this the CHP control room persons went and tripped all other, resulting in chaos
+- As I told in [[2025-12-21 OH]], we only removed DCFB from incomer-1 of ESP Trf-A & C, when we got a call from various people that this CHP thing happened and Series indication gone, we suspected DC control issue, we worried, it's not like we inadvertently removed the fuses of Fly ash MCC DC fuses
+- Then it came to know that there is another DC control supply source, knob given in Bus PT of that MCC, Kasi sir made it on. DC supply got restored.
+- Each of these both control supply is given from different DC Fuse boards, one is inside Fly ash MCC, another is in ESP MCC room
+- Later, it was found that the **Control Supply-1 fuses** (the supply that was assumed to be lost) were actually healthy. However, the circuit had a **high-resistance / loose connection**.
+	- When the voltage was measured using a meter, **24 V was indicated**, but when even a **very small load (an LED lamp)** was connected, it **did not glow**.
+	- As explained by **Ashok Sir**, the wire was likely **partially cut or loosely connected**, so it shows voltage under **no-load conditions**, but **cannot supply current** when a load is applied

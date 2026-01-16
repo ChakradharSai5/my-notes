@@ -14,7 +14,7 @@ Note - We deal with ERLDC and NLDC on separate occasions, for AGC we deal with N
 
 #### Supposed to be unit shutdown and Turbine actual overspeed test experience
 [[LP Turbine blade damage while rolling]]
-- We are suppose to empty ABDE bunkers, and we did so, by not feeding bunkers from almost  #OHDoubts  afternoon, and gave instructions to CHP to maintain level to around 30%, assuming level 30% for coal around for 6hours
+- We are suppose to empty ABDE bunkers, and we did so, by not feeding bunkers from almost  afternoon, and gave instructions to CHP to maintain level to around 30%, assuming level 30% for coal around for 6hours
 - I guess that worked and we emptied A by evening 1600-1800Hrs, remaining also emptied except for D, by night 0000Hrs
 - Mill-D empty got little late by around 00:30Hrs. refer [[LP Turbine blade damage while rolling]]
 - Now I guess they are going to replace only those blades that got damage or whole LP turbine
