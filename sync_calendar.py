@@ -84,7 +84,7 @@ while response.get("has_more"):
 for page in results:
     title = "No title"
     if page["properties"]["Thing"]["title"]:
-        title = page["properties"]["Name"]["title"][0]["plain_text"]
+        title = page["properties"]["Thing"]["title"][0]["plain_text"]
         print("Task:", title)
 
     props = page["properties"]
