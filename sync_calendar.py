@@ -9,7 +9,9 @@ DATABASE_ID = "7fa4438ee3fc422aa2de05cb365624bc"
 
 notion = Client(auth=NOTION_TOKEN)
 
-# ===== QUERY =====
+# ===== QUERY WITH PAGINATION =====
+results = []
+
 response = notion.databases.query(
     database_id=DATABASE_ID,
     filter={
@@ -42,8 +44,44 @@ response = notion.databases.query(
     }
 )
 
+results.extend(response["results"])
+
+while response.get("has_more"):
+    response = notion.databases.query(
+        database_id=DATABASE_ID,
+        start_cursor=response["next_cursor"],
+        filter={
+            "and": [
+                {
+                    "property": "Done",
+                    "checkbox": {
+                        "equals": False
+                    }
+                },
+                {
+                    "or": [
+                        {
+                            "property": "Priority Type",
+                            "select": {
+                                "equals": "Urgent"
+                            }
+                        },
+                        {
+                            "property": "Thing of this Fortnight??",
+                            "formula": {
+                                "checkbox": {
+                                    "equals": True
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    )
+    results.extend(response["results"])
 # ===== PROCESS TASKS =====
-for page in response["results"]:
+for page in results:
 
     props = page["properties"]
 
