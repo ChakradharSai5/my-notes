@@ -82,6 +82,11 @@ while response.get("has_more"):
     results.extend(response["results"])
 # ===== PROCESS TASKS =====
 for page in results:
+    title = "No title"
+if page["properties"]["Thing"]["title"]:
+    title = page["properties"]["Name"]["title"][0]["plain_text"]
+
+print("Task:", title)
 
     props = page["properties"]
 
