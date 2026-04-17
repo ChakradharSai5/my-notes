@@ -1,4 +1,4 @@
 ---
 {}
 ---
-![[Bhubaneswar Map Drawing.svg]]
+#pending 

@@ -1,4 +1,0 @@
----
-{}
----
-[[ARV Ball replacement.excalidraw]]
