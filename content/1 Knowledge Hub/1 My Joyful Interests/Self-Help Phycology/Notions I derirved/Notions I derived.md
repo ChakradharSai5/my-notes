@@ -6,7 +6,7 @@
 - - Your expertise on things should be at that level that for helping others, it should not cost you much but for them it should be of big help. This can be by following two things
     - 1. Get clarity as mucha as you can
     - 2. Do thing quick and easy way
-- ## Remember you don't want to end up like sanjay sir, who is craving for promotion to get out of this place but can't do anything, he's so not interested to stay here, you don't want at age 45 to end up a place like thiswhere your kids don't have properCONT. #pending #UrgentThing
+- ## Remember you don't want to end up like sanjay sir, who is craving for promotion to get out of this place but can't do anything, he's so not interested to stay here, you don't want at age 45 to end up a place like thiswhere your kids don't have properCONT. #pending
     
 - Remember you don't want to end up like sanjay sir in 10 years, who is craving for promotion to get out of this place but can't do anything so there's a chance to get out of this place, just leave ., he's so not interested to stay here, you don't want at age 45 to end up a place like thiswhere your kids don't have proper enjoying childhood with proper facilities, priority enjoying and roaming places to go. For that it has to be near City Work hard for that
 - Remember, you don't want to end up like forst episode of Breaking bad where, he gets her hj out of pity, You don't want anything in life from anyone out of pity. Work hard and inspire others.

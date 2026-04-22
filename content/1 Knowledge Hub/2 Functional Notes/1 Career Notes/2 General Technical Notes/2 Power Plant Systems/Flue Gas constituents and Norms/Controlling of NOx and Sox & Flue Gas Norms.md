@@ -1,7 +1,7 @@
 ---
 {}
 ---
-#OfficeNote
+
 
 To reduce NOx emissions in thermal power plants, here are some simple ways:
 

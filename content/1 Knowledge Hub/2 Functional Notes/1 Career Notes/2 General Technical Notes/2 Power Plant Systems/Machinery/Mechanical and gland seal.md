@@ -1,7 +1,7 @@
 ---
 {}
 ---
-#OfficeNote
+
 Gland seal and sleeve of pump
 ?
 - In old plants we are using mostly gland seal, which requires continous slight water or whatever fluid flow for cooling purpose, other wise, it will cause to burn the gland said in [[Gland seal and sleeve of pump]]

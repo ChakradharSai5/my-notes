@@ -1,7 +1,7 @@
 ---
 {}
 ---
-#UrgentThing **this whole page is to be urgent thing**
+#pending  **this whole page is to be urgent thing**
 - Do things only if you are convinced/ or you feel that you should do it, don't do it if you are not convinced, don't force yourself - thinking it will help according to that book or according to some philosophy
 - DO THINGS FAST & Measure the work with time. Not the effort, KEEP IT SIMPLE & DO IT FAST 
 - be honest with yourself & ask yourself, if you know you have to do something & you know you can do it, then do it. By not doing that's giving you stress. If you can't do it ( and you know genuinely that you can't do it) then there's no problem

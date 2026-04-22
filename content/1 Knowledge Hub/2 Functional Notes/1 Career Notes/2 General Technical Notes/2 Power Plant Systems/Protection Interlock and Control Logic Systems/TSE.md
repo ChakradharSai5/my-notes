@@ -1,7 +1,7 @@
 ---
 {}
 ---
-#OfficeNote
+
 ### TSE
 ?
 - main thing is we measure one 100% depth surface temp. and another 50% depth temperature for

@@ -9,7 +9,7 @@
 	- For going home, he goes to Jabalpur and from there is direct train to Ongole, his native
 	- His father story - #pending 
 - [[Aayush NTPC]] has his home, he is from bihar, has many plants near by, including these plants in northen
-- Got to know about these plants nearby [[Aayush NTPC]] home and note near by cities there #UrgentThing 
+- Got to know about these plants nearby [[Aayush NTPC]] home and note near by cities there #pending 
 - Sulay who got training in BHEL on nuclear, I think bangalore, later got posted in mumbai or somewhere #pending , now recently Hitesh contacted him to ask about BHEL training, as Hitesh thinking to applying, Sulay said, soon they will be postedin nuclear side of NTPC mostly erection, so hitesh cancelled his plan apply for nuclear
 - Subratanu sarkar who was in our group-B St-2 applied in HR and so got transferred to Mines called Badam, Corporate communications
 	- Hazaribad near to wherever Sarkar got posted and I think that's near to north karanpura

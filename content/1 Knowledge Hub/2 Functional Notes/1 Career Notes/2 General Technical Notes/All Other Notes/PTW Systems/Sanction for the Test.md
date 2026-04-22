@@ -1,7 +1,7 @@
 ---
 {}
 ---
-#OfficeNote
+
 ## **Sanction for Test:**
 ?
 - If SAP, acting as control person, has instructed an Authorized person to apply safety precautions and the SAP cannot physically check them because they have been applied remotely from him, then the authorized person shall sign the record of safety precautions. The AP shall inform SAP of the detailed safety precautions applied so that the sanction for test can be prepared. Wherever reasonably practicable this record should be sent to the SAP so that it can be retained with the orginal copy of the SfT

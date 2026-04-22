@@ -1,7 +1,7 @@
 ---
 {}
 ---
-#OfficeNote
+
 ## Modules
 ?
 - Measuring of IR value in module:
