@@ -1,0 +1,12 @@
+During [[2025-12-14 OH Reactor test & Unit shutdown for OH]]
+- Which is supposed to be turbine actual overspeed test ended up as this
+- We are suppose to empty ABDE bunkers, after that for checking overspeed test, we are suppose to open GCB and keep the turbine alive, #OHDoubts  - to know is is sure that opening GCB doesn't trip Turbine or do we need to bypass some logic??
+- so as expected, by opening GCB, turbine speed shot up momentarily and got stable, but what mistake we did is while shutdown, we are suppose to keep the TDBFP stopped, and only MDBFP in service at around 250MW, which Kasi sir let not, hence TDBFP tripped on HP steam pressure low, as expected, and so MFT occurred on feed water flow low.
+- So, Turbine tripped on MFT
+- so after clearance from TMD and higher ups, took some 6 oil guns, and increased the slowly dropping pressure to 85ksc, with HPBP open - startup mode, Turbine rolled again, - before it came to barring - at around 19rpm, to 3000rpm
+- Everything was smooth, until we gave setpoint to 3210rpm, speed slowly increasing, suddenly a big huge single sound came from turbine floor
+- My first thought was may be CV got more open than required, so Turbine speed increase so fast so saw the speed and found almost constant at 31xx rpm, so I thought ok, may be line hammering or something, but Sai Kiran saw Turbine vibration alarms, and saw turbovisory alarms found, all around 2xx or 3xx, hand tripped, but by that time turbine tripped on high vibrations
+- #OHDoubts here I came to know later that without GCB close, turbine vibration tripping provided in 7sec
+- and later it was found the reason being LPT blade got broke
+- ![[vlcsnap-2025-12-18-04h19m21s974.png]]
+-

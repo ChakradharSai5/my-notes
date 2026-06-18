@@ -1,7 +1,7 @@
 ---
 {}
 ---
-#OfficeNote
+
 ## **Control Person**
 ?
 A Person who has been nominated by the Location General Manager or Addl./Deputy General Manager to be responsible for controlling and co-ordinating safety activities necessary to achieve Safety from the System.

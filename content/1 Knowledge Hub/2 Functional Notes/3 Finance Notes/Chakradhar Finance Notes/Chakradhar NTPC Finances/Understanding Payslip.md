@@ -2,10 +2,8 @@
 {}
 ---
 There are basically two parts to this
-1. **Our NTPC side**, which includes calculating "Total Earnings" and "Total Deductions", & by substracting latter from former, we'll get "Net Pay".
-    A. Note that "Net Pay" is our in hand Salary
-2. **Form 16 Side(Income Tax to Govt. of India Side),** This is basically calculated to find our that month income tax deduction amount.
-    B. Note that this calculation is what that gives "Income Tax" value used in "Total Deductions".     
+1. **Our NTPC side**, which includes calculating "Total Earnings" and "Total Deductions", & by subtracting latter from former, we'll get "Net Pay". Note that "Net Pay" is our in hand Salary
+2. **Form 16 Side(Income Tax to Govt. of India Side),** This is basically calculated to find our that month income tax deduction amount. Note that this calculation is what that gives "Income Tax" value used in "Total Deductions".     
 
 ### Approach:
 So approach would be like this Steps
@@ -16,7 +14,7 @@ Step1.
             B. DA
             C. Cafeteria Allowances(35%)
             D. Local Travel Re-Fix (Vehicle Maint.) are included, 
-			E. [[NPS]] contribution(8.99% of Basic+DA) also to be added, mentioned below "Net Pay"
+			E. [[NPS]] contribution(8.99% of Basic + DA) also to be added, mentioned below "Net Pay"
 		And Petrol, Night shift & CPC(whatever it is), are excluded 
 Step2. 
 	This shall be equal to "Gross Taxable Income Till Date" if it is April Month, if not, this "A+B+C+D+E" added to "Gross Taxable Income Till Date" of previous month, shall be equal to "Gross Taxable Income Till Date" of this month.

@@ -1,7 +1,7 @@
 ---
 {}
 ---
-#OfficeNote
+
 - Volumetric feeders: rely on volume measurements
 ?
 	- we have to decide certain dispense rate like 1kg/60sec

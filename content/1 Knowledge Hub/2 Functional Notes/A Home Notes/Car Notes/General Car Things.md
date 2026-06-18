@@ -1,7 +1,7 @@
 ---
 {}
 ---
-- During car repair at chandragiri of dad's car
+- During car repair at Chandragiri of dad's car
 	- Clutch set 3800
 	- Gear oil 1200 
 	- Release bearing 600 

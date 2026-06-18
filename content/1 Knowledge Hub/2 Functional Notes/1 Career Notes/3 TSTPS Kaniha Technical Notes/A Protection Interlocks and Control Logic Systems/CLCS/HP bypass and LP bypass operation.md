@@ -1,7 +1,7 @@
 ---
 {}
 ---
-#OfficeNote
+
 ## HP Bypass
 ?
 - HP bypass capacity 60% of steam flow
@@ -24,7 +24,7 @@
     - That is in that mode simply setpoint changes to 187.5ksc and so HPBP gets opened
     - Only when the MS Pr. Drops below to 187.5ksc, HPBP closes and so enters DP control mode(or internal setpoint mode)
 - Also it goes to Pressure control mode when MS Pr. Gradient goes beyond > 5ksc/minute
-- In middle of lightup, came out of start up mode due to rate of MS pressure high, HPBP opened more than 35%, don't know wahta it is maintaining, so what we did is, took HPBP in manual, kept in auto and immediately kept in start up mode. So that it will stay in 35% open, upto 100ksc /not 85ksc as it is hot startup #UrgentThing
+- In middle of lightup, came out of start up mode due to rate of MS pressure high, HPBP opened more than 35%, don't know wahta it is maintaining, so what we did is, took HPBP in manual, kept in auto and immediately kept in start up mode. So that it will stay in 35% open, upto 100ksc /not 85ksc as it is hot startup #pending 
 ## LP Bypass
 ?
 - LP Bypass

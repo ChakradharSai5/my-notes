@@ -2,7 +2,7 @@
 {}
 ---
 Generator protection is broadly classified into three types: Class A, B, and C, 
-In this, normally when we trip the unit, during shut down, that comes under Class B, which means, we trip the turbine first, and so Turbine Stop valves gets closed, and so the complete energy from turbine gets exhausted through generator to grid throuhg GCB (Of course), and then, `GCB gets open I think on low forward power relay` #pending 
+In this, normally when we trip the unit, during shut down, that comes under Class B, which means, we trip the turbine first, and so Turbine Stop valves gets closed, and so the complete energy from turbine gets exhausted through generator to grid throuhg GCB (Of course), and then, GCB gets open I think on low forward power relay.
 But Class A is the type of protection, where instead of exhausting this energy, and let the turbine stop in stable manner, if our priority is to save generator or any related electrical equipment, then those type is called Class A type, where GCB trips first, and then SV gets closed, of course all happen in millisecond difference probably.
 # Class A
 - Generally, electrical faults of the generator, generator transformer and unit auxiliary transformer will lead to Class A tripping.

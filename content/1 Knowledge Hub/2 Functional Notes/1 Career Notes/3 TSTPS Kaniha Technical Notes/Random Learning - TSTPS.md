@@ -5,7 +5,7 @@ date: "true"
 - For MLDB there are two sources each from SSS-A & SSS-B
 - For welding DB single source only from SSS-A
 - **To put MDBFP & TDBFP in auto**
-    - after loading TDBFP , make sure both suction flow maintaining around same value then put TDBFP remote permissive ok, then put TD in auto, later put MD scoop in auto. now you can give SP from FW station in manual. [[Pni]]
+    - after loading TDBFP , make sure both suction flow maintaining around same value then put TDBFP remote permissive ok, then put TD in auto, later put MD scoop in auto. now you can give SP from FW station in manual. [[Mills and APH]]
 - All Mills have VFD except Mill-A unit-1
 - - **LPBP protection checking**
     - [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/LPBP]] tripping on spray water pr low is in switch 
@@ -17,7 +17,7 @@ date: "true"
 - - **Machining of [[TSTPS Generator]] motor:**
     - In Unit #2 [[Overhauling]], rotor taken out *did* OH and then kept again back inside, while being taken out, I have observed rotor has very **less** *clearance* to jiggle to take out, so what they did is- there are two metal hooks on floor, they tied a big chain to rotor and ran these chains through hooks, with pulleys man slowly pulled it out, parallelly eot crane gave support while it is being hold while being taken out
     - After OH when rotor kept inside, rotor is to be machining for proper sitting of brushes on it, to put brushes-as they said- requires perfect circle, so they did machining like lathe, for this they will run barring motor for some time to do machining and stop the barring motor to measure the dia and **then** again they will put in barring to do machining, this continues for hours together.
-- - [[MFT]] [[Pni]]
+- - [[MFT]] [[Mills and APH]]
     - If BLI > 65%,
         - One BFP 20sec
     - If BLI < 65%
@@ -35,7 +35,7 @@ date: "true"
 - [[- LP Bypass]] #pending 
 - AFT Spray is from  service water and clarified water
 - Passivation of boiler at 12ksc, after or during [[Overhauling]] #pending 
-- After [[Overhauling]]they trip unit on RH protection [[Pni]] logic why is it so?? #pending 
+- After [[Overhauling]]they trip unit on RH protection [[Mills and APH]] logic why is it so?? #pending 
 	*this is for checking*
 - 100% [[BMCR]] is 560MW as mentioned in CLCS document
 - [[BID]] 0-100% = 0-600MW, mentioned in CLCS document

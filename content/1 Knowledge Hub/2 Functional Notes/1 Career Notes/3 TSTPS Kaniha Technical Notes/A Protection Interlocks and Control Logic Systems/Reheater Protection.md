@@ -1,0 +1,4 @@
+- **This need confirmation**
+- HP Turbine, HPCV 2% open or HPBP need more than 2% with switch, 
+- Gets armed only after steam flow<17%
+- LPBP also 2% one of these LPBP or HPBP has switches which leads to our logic 

@@ -1,7 +1,7 @@
 ---
 {}
 ---
-#OfficeNote
+
 ## Flue Gas constituents
 - Fuel has C,H,N,S
 ### Normal reaction

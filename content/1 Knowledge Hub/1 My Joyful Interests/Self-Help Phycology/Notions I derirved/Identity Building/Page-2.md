@@ -24,7 +24,7 @@ It isn't about happiness, You gotta be ready for life's lot of disease, pain of 
 
 Remind yourself that yes you have lost a lot by bad choices with insecurities but it is on your  hands now to choose future about health, career , relationship
 
-#depron #rolemodel Robert Downey Jr.
+ Robert Downey Jr.
 
 - Peaky blinders
     - "I'm a man who drinks tea" - Tommy shelby

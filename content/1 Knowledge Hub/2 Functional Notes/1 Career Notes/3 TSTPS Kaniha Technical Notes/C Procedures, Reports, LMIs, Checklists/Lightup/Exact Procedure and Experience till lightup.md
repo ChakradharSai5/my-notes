@@ -1,0 +1,1 @@
+- This is more of exact experince thana a simple procudure, so I wrote it at [[Lightup experience small details and FRS LLCV problem]]
