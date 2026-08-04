@@ -102,6 +102,7 @@ date: "true"
     - **Note**: minimum block means max of all inputs will go out
     
 - 1 hfo gun hour= around 2kl consumption
+- - CPU in and out between time roughly 7 hours
     
 - 1 ldo gun hour = around 2.kl consumption with 8ksc, as mentioned in technical dairy
     
@@ -112,6 +113,7 @@ date: "true"
 - Oil scanner freq 30Hz
     
 - BID 0-100% = 0-600MW
+
     
 - 43mtr has access to conveyor belts in boiler
     

@@ -1,4 +1,0 @@
-- What makes me move like said by [[Jayaprakash Narayan]]
-	- Unused potential
-	- Avoidable suffering
-- 

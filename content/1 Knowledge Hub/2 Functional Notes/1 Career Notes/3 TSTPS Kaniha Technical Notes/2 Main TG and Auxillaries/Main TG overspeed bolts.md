@@ -4,7 +4,7 @@
 ![[MQnCiY0 - Imgur.jpg]]
 ![[uzlWWJJ - Imgur.jpg]]
 
-the setup you see here is at MOP , so I guess, bearing 1, right side part is main TG shaft, and the circesl kind of thing you see in top pic is the overspeed bolts that get lifted at 110% and 112% #pending, the two pipe thing on left side one will have two inner circle thing from centre one 110% oil comes and other 112% oil comes from outer circle and so this will go to right side shaft kind of thing and corresponding overspeed bolts gets lifted
+the setup you see here is at MOP , so I guess, bearing 1, right side part is main TG shaft, and the circesl kind of thing you see in top pic is the overspeed bolts that get lifted at 110% and 112%, the two pipe thing on left side one will have two inner circle thing from centre one 110% oil comes and other 112% oil comes from outer circle and so this will go to right side shaft kind of thing and corresponding overspeed bolts gets lifted
 
 And the two drains you see from the right side one are that corresponding bolts drains i guess
 

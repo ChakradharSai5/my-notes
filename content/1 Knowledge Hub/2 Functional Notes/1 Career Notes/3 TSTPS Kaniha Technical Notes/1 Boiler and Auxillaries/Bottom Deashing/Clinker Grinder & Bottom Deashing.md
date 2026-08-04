@@ -1,11 +1,13 @@
 ---
 {}
 ---
-- Clinker Grinder trip from no ON/Running feedback, and power fuses not ok and control fuses being ok, it will show Power supply healthy, and if you give start, running indication shall not come, refer  [[DN3 Module scheme]] & [[N3 Module Scheme]]\
+- Clinker Grinder trip from no ON/Running feedback, and power fuses not ok and control fuses being ok, it will show Power supply healthy, and if you give start, running indication shall not come, refer  [[DN3 Module scheme]] & [[N3 Module Scheme]]
 - Enargo tank make up is from only BALP
 - Fly ash water tank or FAWT make up is from two sources one is Blowdown  & other is from BALP
 - scheme available at[[Bottom De-ashing scheme]] 
 - Hopper gates opening logic at 3-4ksc, we usually get around 7ksc from BALP![[FcSZm1k - Imgur 1.png]]
-- AD and BC is we'll take in service for doing bottom ashing
-- Clinker grinder seal water pressure requried to protect gland, otherwise gland gets heated and so gets damaged
-- Seal trough continously water to be made overflow to ensure, contionous water into as some water gets dried up due to heat from boiler, and that overflow line is kept at near CG-D side.
+- AD and BC is we'll take in service for doing bottom-ashing
+- Clinker grinder seal water pressure required to protect gland, otherwise gland gets heated and so gets damaged
+- Seal trough continuously water to be made overflow to ensure, continuous water into as some water gets dried up due to heat from boiler, and that overflow line is kept at near CG-D side and CG-A side
+- When coal quality is poor. Care to be taken in Bottom ashing. Gap should not exceed 1200 tons coal consumption cumulative or 3hrs gap if not able to not BA in 3 hrs duration
+### 

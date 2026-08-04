@@ -1,7 +1,7 @@
 ---
 {}
 ---
-[[Mills]] #pending 
+[[Mills]]
 	- Permissive:
     - Hot PA pressure: 600mmwcl
 - Tripping:

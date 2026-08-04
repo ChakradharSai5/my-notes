@@ -6,4 +6,4 @@
     - **Read end quiz if any( for 7 habits i think it is there)**
     - **Read bold prints from first to last**
     - **Now before reading each chapter, in that chapter for each paragraph read first and last sentences.**
-    - **Then start reading the book** #pending 
+    - **Then start reading the book**

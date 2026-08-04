@@ -3,7 +3,7 @@
 ---
 
 
-Rolling exact steps and notes related to that #pending 
+Rolling exact steps and notes related to that 
 - Main TG soaking will be done, if it is cold rolling, if the HP mean rotor termperture goes below 150DegC, then Turbine startup will be cold, and soaking speed is 1100rpm for 20mins
 - Speed gradient depends on 
 	- cold - gradient - 15% i.e 90rpm/min
@@ -12,7 +12,7 @@ Rolling exact steps and notes related to that #pending
 - Block load is 5% of TG Rating = 30 MW
 - For rolling
 	- MS temp. less than low logic
-		- if HP inlet temp. LBA10CT010 XQ50 should be more than 33DegC of saturation steam temp. of corresponding steam pressure #pending 
+		- if HP inlet temp. LBA10CT010 XQ50 should be more than 33DegC of saturation steam temp. of corresponding steam pressure
 
 
 ## Modes in TG rolling

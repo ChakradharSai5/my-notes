@@ -1,4 +1,0 @@
----
-{}
----
-- He has uric acid, his face getting swelled after sleep, may be because of uric acid issue, #pending 

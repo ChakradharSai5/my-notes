@@ -57,15 +57,15 @@ This is briefing, then I will explain each step
 - Increased to 85ksc, got the parameters achieved for rolling 
 	- for rolling 85ksc corresponding saturation temperature difference to temperature the steam needs to 55DegC
 - And after reaching these rolling parameters, we select Load mode, which got the CV to open and so rolling of the turbine
-	- While rolling, Ashok sir told, for only one particular range of critical speeds has higher ramp rate, for remaining critical speeds the ramp rate is normal. #pending 
+	- While rolling, Ashok sir told, for only one particular range of critical speeds has higher ramp rate, for remaining critical speeds the ramp rate is normal. 
 - Then, after completion of rolling, i.e. reaching 3000rpm, then kept in No Load excitation, then, the FCB gets closed manually or gets closed in auto - not sure, then, I increased the Excitation voltage by giving pulse by pulse up until 20.5kv
-- Then after this, we kept in Load mode, PRS synch Auto, then Synch Device on, then unit synchronizes in auto, but before that we need to keep the MW control click and ready to make it on, if gets on in auto when synch, well and good, if not then, we have to keep it in MW control and increase the Set point to atleast 55MW, also, low forward power relay acts at 15MW - as said by Ashok sir #pending 
+- Then after this, we kept in Load mode, PRS synch Auto, then Synch Device on, then unit synchronizes in auto, but before that we need to keep the MW control click and ready to make it on, if gets on in auto when synch, well and good, if not then, we have to keep it in MW control and increase the Set point to atleast 55MW, also, low forward power relay acts at 15MW - as said by Ashok sir
 - Once synchs, as usual maintain the RH temperature control with spray to control streess I handled very good I maintained around 400-425DegC, from [[Main TG rolling#**Bypass mode**]], it can be  seen that for rolling clearance for TG rolling. may be linked to that 
 - refer [[Stress calculation and logic]],
 - Then, did things, as usual, but important are the sequence of steps
 - Maintained Feedwater around 850Tph to 900Tph, as it drops or rises due to pressure or decrease is maintained with MD-C scoop & TD-A - both were in loaded condition with TD-A RC open
 - Then, first changeover of RC done from TD-A to MD-C.
-- Then FRS bypass valve made open, I wanted to keep BFPs in auto before doing, but Kasi sir insisted to do it with both in manual, so did accordingly pressure got dipped by may be 10ksc and feedwater increased by some 200-250Tph. but decreased the same proporationately in MD-C & TD-A, so ok.
+- Then FRS bypass valve made open, I wanted to keep BFPs in auto before doing, but Kasi sir insisted to do it with both in manual, so did accordingly pressure got dipped by may be 10ksc and feedwater increased by some 200-250Tph. but manually decreased the same proporationately in MD-C & TD-A, so ok.
 - Increase FW Man command at Feedwater master station, and matched with scoop command and kept that in auto, then, TD-A also adjusted speed to match with internal command, and kept that also in remote.
 - Then controlled feedwater directly from Feedwater station, then after taking to MW control, feedwater kept in auto.
 

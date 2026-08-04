@@ -12,4 +12,8 @@
 - Pump-2 & 3 have belt coupling, hence belt may get damage at times
 - pump-1 if takes less current while whole series in service with less than 45A, undercurent alarm comes
 	- for  pump-2,3 & 4 the undercurrent alarm comes at 35Amp
-
+- 
+HP & LP seal water supply
+- HP Seal water pump-A & LP Seal water pump-A from Ash Extraction MCC-1B
+- LP Seal water pump-B from Ash Extraction MCC-1A
+- HP Seal water pump-B from Ash Extraction MCC-2A

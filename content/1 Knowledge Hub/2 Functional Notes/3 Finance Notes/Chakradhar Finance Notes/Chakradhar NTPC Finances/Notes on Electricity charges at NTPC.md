@@ -1,7 +1,7 @@
 ---
 {}
 ---
-Type of Quarter NormaI electricity charges for quarters (Rs.) per
+Type of Quarter normal electricity charges for quarters (Rs.) per
 month
 A/I 58
 8/11 104.40

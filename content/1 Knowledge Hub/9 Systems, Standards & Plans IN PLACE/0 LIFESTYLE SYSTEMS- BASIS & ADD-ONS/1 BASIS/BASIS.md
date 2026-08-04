@@ -30,7 +30,7 @@ When went to office at the start
 ##### Exercise Routines - Rotaly
 - On 1E, 1N & 1G shifts morning from 0630Hrs - 0730Hrs
 - Hot water Bath after exercise
-- [[Exercise Plan|Exercise Plan]]
+- [[Diet and Exercise Notes|Diet and Exercise Notes]]
 
 ## MAINTANANCE ROUTINES
 ##### Home Organizing - Monthly

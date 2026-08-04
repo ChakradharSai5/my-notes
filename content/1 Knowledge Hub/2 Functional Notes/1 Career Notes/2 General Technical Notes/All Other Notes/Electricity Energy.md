@@ -1,0 +1,1 @@
+- We know 1 Unit of electricity is 860kcal energy, and we are generating 500MW with 350Tph coal, and coal costs 2500rs roughly, and coal here at Kaniha colorific value around 2500kcal/kg

@@ -1,3 +1,4 @@
+#pending 
 Sir, this seems to be wrong calculation, as per my understanding. Reason elaborated below:
 Take the 1st column of 1st  para (i.e. outstanding Performance station & T1; NTPC MOU rating is T  i.e. 100%) 
 Hence,

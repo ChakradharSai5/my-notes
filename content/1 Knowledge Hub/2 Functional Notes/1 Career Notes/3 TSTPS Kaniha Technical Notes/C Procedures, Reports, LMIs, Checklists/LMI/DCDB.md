@@ -12,4 +12,4 @@ refer [[Control supply to LT & HT Switchgears]]
 - Control supply for breaker operation 
 - Protection of switchgear, generator
 - DC lighting
-	- What are all happen if 220V DCDB Loss #pending 
+	- What are all happen if 220V DCDB Loss

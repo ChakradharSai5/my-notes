@@ -1,7 +1,7 @@
 ---
 {}
 ---
-Unit-1 stopped as ACC went very high, out of range- #pending ,in all circuits that are condensate, feedwater SH and RH circuits. 
+Unit-1 stopped as ACC went very high, out of range ,in all circuits that are condensate, feedwater SH and RH circuits. 
 ACC means After cation conductivity
 Initially we thought it might be because of condenser tube leakage, but later it is found that resin trap of CPU found heavy passing, and so the resin of CPU went into the system, and it went upto turbine,
 - As per TMD, once the resin enters SH  or RH circuit due to high pressure and temperature it gets disintegrates and it wont be in form of particles it might be but very small

@@ -7,5 +7,5 @@
     - FW line
     - Clarified water
 - NRR also have oil, and thrust bearing also have oil, in CW pumps
-- In a line going for cooling there is flow switch called PRELUB FLL switch which was found acting, though the line is charged check in [[CWPH Prelub Flow switch malfunction]]
+- In a line going for cooling there is flow switch called PRELUB FLL switch which was found acting, though the line is charged check in CWPH Prelub Flow switch malfunction
 - We have 4 PRs- pressure switches, PR1 to sense for accumulator pressure, PR2 is for line pressure 

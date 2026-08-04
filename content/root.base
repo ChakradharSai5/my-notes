@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith(this.file.path.slice(21,-5))
+        - file.ext != "base"
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - file.name
+      - file.folder
+      - file.tags
+    sort:
+      - property: file.name
+        direction: ASC

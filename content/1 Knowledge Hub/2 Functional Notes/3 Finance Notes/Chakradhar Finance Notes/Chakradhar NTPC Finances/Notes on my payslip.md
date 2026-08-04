@@ -9,3 +9,6 @@
 -  I have chosen HDFC in NPS, fortunately it is not a small company, it is with market capitalization of 151billion dollars or 12.38 lakh crores, fifth largest bank by market cap 
 - refer [[NPS]]
 - This NPS 
+
+## PF
+- PF interest gets added every financial year and the calculation would be the way

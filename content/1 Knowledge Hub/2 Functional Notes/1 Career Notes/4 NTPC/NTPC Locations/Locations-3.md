@@ -11,7 +11,7 @@
 - Ravikumar EMD came from simhadri
 - Bheem sir did not give any proper medical reason, he just aplied by saying his parents are dependents and he has to take care of them
 - - **Tata power steel plant in kaniha at debris which is in the path of Dhenkanal via khamakya nagar**
-- **Tata does very good CSR example this above plant mentioned adopted nearby villages and doing very good CSR activity ** #pending 
+- **Tata does very good CSR example this above plant mentioned adopted nearby villages and doing very good CSR activity ** 
 - t costs around 1 lakh for people staying in america come to india, so they come one or two years once.
 - Laxminarayan sir mauda
 - Satendra sir gas plant near delhi gas -- now not running
@@ -19,7 +19,7 @@
 - Delhi public school better at vizag steel plant 45 mins to vizag
 - Trijyak sir kehlgaon -- Was not in option
 - Kapil TMD sir vidhyachal – his 2nd option
-- **COE-HRUSS Located at NTPC Mouda** #pending 
+- **COE-HRUSS Located at NTPC Mouda** 
     - **HR-Shared Services Nodal Officers at all NTPC Locations – act as a link / bridge between employees and HR-USS dealing executives, handle employee queries**
 - - Unchahar 
 	- has very good connectivity

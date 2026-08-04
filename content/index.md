@@ -4,7 +4,6 @@ title: Chakradhar Digital Garden
 
 ![[Jon Snow.jpg]]
 
-
 ### Career
 
 [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/]]     
@@ -14,6 +13,7 @@ title: Chakradhar Digital Garden
 [[Pending Place]]
 
 [[1 Knowledge Hub/3 Library/Resource Options-Library/]]
+![[Knowledge Hub Diagram]]
 
 
 

@@ -1,5 +1,6 @@
 ---
 {}
 ---
-- 1 table spoon is 15ml
-- 1 table spoon is 3 tea spoons, and so 1 tea spoon is 5ml
+### Oil
+- 1 tea spoon oil is 5ml
+- and 3 tea spoons equals 1 table spoon

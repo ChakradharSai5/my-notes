@@ -7,6 +7,6 @@
 
 
 Now for taking CPU in service
-- resin gets transfeered from DM plant to CPU using middle top line valve
+- resin gets transferred from DM plant to CPU using middle top line valve
 - then that's closed, and inlet manual valve crack opened, and inlet pnumeatic valve's IBV opened, and vent of CPU kept crack open, seen that CPU got filled with water coming from vent, vent is closed
-- outlet valve crack opened -*doubt* #pending , drain at outlet made fully open, left for flushing, for some time as seen in local, a conductivity point taken at outlet of CPU is seen, when it comes around 0.2, drain made closed and outlet and inlet made fully open
+- outlet valve crack opened, drain at outlet made fully open, left for flushing, for some time as seen in local, a conductivity point taken at outlet of CPU is seen, when it comes around 0.2, drain made closed and outlet and inlet made fully open

@@ -1,5 +1,0 @@
----
-{}
----
-
-![[FgtGUMG - Imgur.png]]

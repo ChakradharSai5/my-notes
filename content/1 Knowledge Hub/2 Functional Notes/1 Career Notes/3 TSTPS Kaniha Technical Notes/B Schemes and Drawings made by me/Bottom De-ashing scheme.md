@@ -4,6 +4,7 @@
 #pending  to excalidraw
 refer [[Clinker Grinder & Bottom Deashing]]
 
+
 ![[sqZPvVZ - Imgur.png]]
 
 ![[FcSZm1k - Imgur.png]]

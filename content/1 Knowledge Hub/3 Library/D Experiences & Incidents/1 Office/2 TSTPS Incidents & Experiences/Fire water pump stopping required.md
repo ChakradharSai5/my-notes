@@ -1,2 +1,0 @@
-- They said as some leakage happened in St-2 Fire hydrant side, hence St-2 side fire hydrant shall be isolated, for that as pressure going to increase when isolated, before hand to decrease the pressure they asked me to stop one of two running fire hydrant pumps, but so as to not let what I believe the spinkler pressure, they also asked me to run sprinkler pump, I did so
-- What I want to confirm #pending  is from [[Fire Hydrant & DV scheme]]

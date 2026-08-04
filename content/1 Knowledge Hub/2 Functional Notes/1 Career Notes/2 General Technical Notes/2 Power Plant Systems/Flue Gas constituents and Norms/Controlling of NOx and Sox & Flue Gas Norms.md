@@ -1,7 +1,15 @@
 ---
 {}
 ---
-
+### How NOx Forms
+- So basically NOx is increased with increase in Air flow, & decrease with decrease in Air flow, the 
+reason simply being, giving more air means more N2 in air to combustion
+- So then why don't we decrease the Air flow, reason being, giving less air flow makes the main
+- combustion reaction we want C+O2--> CO2 + energy shall not happen, instead C+O ---> CO + energy happen and that gives less energy.
+- So how to tackle this, simple logic being, N+O2 giving NO happen at higher temperatures,
+- so one of the way is we use OFA, which makes air getting distributed, to upper area, 
+- so in lower zone, as there's no sufficient O2, only CO shall form, but when this unburnt Corban or CO shall travel upward with Flue gas, at OVF it goes through complete reaction and gives out energy, here the logic for NOX formation high temperature needed, but for CO2 formation not that high may be around 300DegC- 1500DegC, hence, 
+no, no NOx formation but only marginally very low efficiency loss
 
 To reduce NOx emissions in thermal power plants, here are some simple ways:
 

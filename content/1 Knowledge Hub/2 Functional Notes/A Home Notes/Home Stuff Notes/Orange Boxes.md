@@ -24,6 +24,8 @@
 	- Washing machine some spares
 - Sravya Leg massager/vibrator skipping rope type Stuff
 - Big funnel
+- Stapler and related in a cover
+- Steam ironing machine4
 
 
 ##### Orange Box-2 : Stuff that are home decor, and things that are used by Chakradhar mostly
@@ -39,6 +41,7 @@
 - Specs - bought in Meghalaya without sight
 - Air filling pin to a ball or type by decathlon with chemical for sealing
 - Home pushup equipment, with different colors for different muscle groups with different holes
+- May be bed screws in a small cover
 
 ##### Orange Box-3 Stuff of Kitchen and Medical spares
 - Kitchen spares -Cover
@@ -60,7 +63,7 @@
 	- Chakri Neck band
 	- Siva Nebulizer transparent pipe
 ##### Orange Box-5 Stuff of Electrical and Electronics
-- All cable cover
+- All                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ==cable== cover
 - A Cover with 
     - Green and Black Joystick and its USB
     - Logitech mouse

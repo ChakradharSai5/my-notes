@@ -2,6 +2,8 @@
 {}
 ---
 H2 Dew point 10C, and purity >97%, in OE handbook pg 140
+
+- Main Turbine TG rotation shall be Anti clock wise from Generator excitor end, looking from generator/excitor end
 ## St-1 Generator
 
 - Static excitation with brush gear

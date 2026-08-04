@@ -32,7 +32,7 @@ Series starting permissives
 ### Isolation
 - Suction and Discharge valve air line isolation
 - Seal water isolation
-- FC pump - start and stop from local will be in pump running condition #pending , only in PTW Fluid coupling pump shall be stopped & GB oil pump will be stopped
+- FC pump - start and stop from local will be in pump running condition, only in PTW Fluid coupling pump shall be stopped & GB oil pump will be stopped
 ### Filling
 - Suction kept closed, (which is normally open)
 - Discharge kept open
