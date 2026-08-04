@@ -1,3 +1,2 @@
-- By definition it means the amount of heat or Energy required for temperature of water 1g to rise by 1°C, and that we termed as 1 calorie
-- This is termed as in calories, that is the energy, and know that we need  of energy to do that, and we realized that 1 calorie is nothing but 4.18Joules, and the definition of Joule is refer [[Work and Energy and Power]]
-- And intuitively understand this way that,  the amount of energy required to increase the water of 1g by 1°C is equivalent to slightly more than 4 times pushing a 1kg mass, with acceleration of 1m/sec^2, over a distance of 1 meter, for more clarity refer [[Work and Energy and Power]].- 
+- By definition it means the amount of heat required for temperature of water to rise from 1
+- 
