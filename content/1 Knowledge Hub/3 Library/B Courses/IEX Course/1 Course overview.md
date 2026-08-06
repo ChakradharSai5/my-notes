@@ -5,7 +5,7 @@
 
 ### Overview
 
-- Historical background  
+- Historical background
     - Before 2003, after 2003
 - Initiatives taken for Development of electricity market
 - Market structure and Institutional arrangement
