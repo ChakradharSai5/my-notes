@@ -1,6 +1,10 @@
 ---
 {}
 ---
+# GOAL
+1. ![[1762139317424.png]]
+2. ![[ayVOgYZ - Imgur.png]]
+
 # Diet Plan
 - You can checkout my health notes - physical copy
 As per that, I shall have following as diet
@@ -8,6 +12,7 @@ As per that, I shall have following as diet
 - Protein - 130-135gm
 - Fats - 55-60gm
 - At calories of 1750-1800kcal
+
 # Exercise plan
 ## Warm up
 	Increases blood flow to musceles**
@@ -78,5 +83,5 @@ Then I'll start slightly bulking for muscle building for probably an year by **2
 # First Checkpoint -20-11-2026
 - 70 kg
 - 20%
-### Plan to look like this:
-![[1762139317424.png]]
+
+

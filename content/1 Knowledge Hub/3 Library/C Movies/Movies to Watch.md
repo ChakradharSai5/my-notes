@@ -1,6 +1,10 @@
 ##### Satyajit Ray
 - Pather Panchali → Aparajito → Apur Sansar → Mahanagar → Charulata → Nayak
 - AKIRA - Dystopian movie
+##### Rahil barve - Director of Tumbaad
+- Mayasabha - 
+##### Jackie chan
+- The Shadow’s Edge (2025)
 ##### Anime
 - |**Berserk (1997)**|25|**~10 hours**|
 - |**Vinland Saga**|48|**~19 hours**|
@@ -20,3 +24,12 @@ Mann Pishach - Short film by Anil barve movie youtube
 
 ### PODCAST
 hardcore history dan carlin podcast
+
+
+## JUST FOR FUN
+- Jason Statham movies
+	- like Working man
+	- The Bank Job
+	- Beekeeper
+	- Transporter
+	- And many more

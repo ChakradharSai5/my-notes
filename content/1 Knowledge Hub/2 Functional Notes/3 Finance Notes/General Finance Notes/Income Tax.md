@@ -63,3 +63,13 @@ We have Income tax pay on "Taxable income" and from "Gross Income" we deduct cer
 - The deduction is available only for interest paid
 - No upper limit - You can claim 100% of the interest paid
 - You can claim the deduction from the year you start repaying the loan and continue for a maximum of 8 consecutive years or until the loan is fully repaid, whichever comes first.
+
+### Section 87A
+- Marginal relief
+	- - **Applicable:** Resident individuals under the **new tax regime**.
+	- **87A rebate:** Taxable income up to **₹12 lakh → ₹0 income tax**.
+	- **Marginal relief:** For taxable income just above ₹12 lakh, tax payable is effectively limited to the **amount by which income exceeds ₹12 lakh**, rather than the full slab-calculated tax. This protection applies until the marginal-relief limit (roughly **₹12.70 lakh**).
+	- **Example:** ₹12.10 lakh taxable income → normal tax ₹61,500, but marginal relief reduces it to **₹10,000** (before 4% cess).
+	- Marginal relief gradually reduces and eventually disappears at around **₹12.7 lakh taxable income**.
+	- For salaried individuals, remember the **₹75,000 standard deduction**: gross salary can therefore be up to **₹12.75 lakh** while taxable income remains ₹12 lakh.
+**Key takeaway:** Crossing ₹12 lakh taxable income does **not** suddenly result in ₹60,000+ tax; marginal relief protects the initial excess income.
