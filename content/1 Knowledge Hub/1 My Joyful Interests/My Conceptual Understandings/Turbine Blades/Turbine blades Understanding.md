@@ -80,9 +80,9 @@ Think of one passage:
 
   
 
-Steam       /             \
+	Steam       /             \
 
-───────→   /               \   ─────→
+	───────→   /               \   ─────→
 
            \               /
 
@@ -186,39 +186,38 @@ That's a huge conceptual distinction.
 
 ### Expansion valve
 
-High P
+	High P
 
-  │
+	  │
 
-  │  throttling
+	  │  throttling
 
-  ↓
+	  ↓
 
-Low P
+	Low P
+
+
+	h = CONSTANT
+
+	### Turbine stator
+	
+	High P
+	
+	  │
+	
+	  │  expansion
+	
+	  │
+	
+	  ↓
+	
+	Low P
 
   
 
-h = CONSTANT
-
-### Turbine stator
-
-High P
-
-  │
-
-  │  expansion
-
-  │
-
-  ↓
-
-Low P
-
-  
-
-h ↓
-
-V ↑
+	h ↓
+	
+	V ↑
 
 So the stator is **not a throttling valve**.
 
@@ -314,15 +313,15 @@ So now we have:
 
   
 
-P ↓
-
-h ↓
-
-T ↓
-
-V ↑↑↑
-
-s ≈ constant
+	P ↓
+	
+	h ↓
+	
+	T ↓
+	
+	V ↑↑↑
+	
+	s ≈ constant
 
   
 
@@ -442,11 +441,11 @@ The stator does most of the pressure drop.
 
   
 
-P ↓↓↓↓↓↓↓↓↓               P ≈ constant
-
-h ↓↓↓↓↓                   h ↓
-
-V ↑↑↑↑↑                   V ↓
+	P ↓↓↓↓↓↓↓↓↓               P ≈ constant
+	
+	h ↓↓↓↓↓                   h ↓
+	
+	V ↑↑↑↑↑                   V ↓
 
                           ↓
 
@@ -465,12 +464,12 @@ So:
        STATOR                    ROTOR
 
   
-
-P ↓↓↓                      P ↓↓↓
-
-h ↓↓                       h ↓↓
-
-V ↑↑                       V changes
+	
+	P ↓↓↓                      P ↓↓↓
+	
+	h ↓↓                       h ↓↓
+	
+	V ↑↑                       V changes
 
                            ↓
 
@@ -504,7 +503,7 @@ This is probably the diagram you were looking for.
 
     │          │           │          │
 
-───→│   /////  │──────────→│   \\\\   │───→
+	───→│   /////  │──────────→│   \\\\   │───→
 
     │          │           │          │
 
@@ -580,7 +579,6 @@ Steam → STATOR → ROTOR
 
              STAGE 2
 
-  
 
        STATOR → ROTOR
 
@@ -616,25 +614,25 @@ P
 
   
 
-│ ●
+	│ ●
 
-│   \
+	│   \
 
-│    ●
+	│    ●
 
-│      \
+	│      \
 
-│       ●
+	│       ●
 
-│         \
+	│         \
 
-│          ●
+	│          ●
 
-│            \
+	│            \
 
-│             ●
+	│             ●
 
-└──────────────────→ turbine stages
+	└──────────────────→ turbine stages
 
 Similarly, temperature generally falls.
 
@@ -660,7 +658,7 @@ Think of one stage:
 
   
 
-V             ↑↑↑↑↑              ↓↓↓
+	V             ↑↑↑↑↑              ↓↓↓
 
               │                   │
 
@@ -700,29 +698,29 @@ Suppose we plot **enthalpy h** against turbine stage number.
 
 Conceptually:
 
-h
+	h
 
   
 
-│ ●
-
-│   \
-
-│    ●
-
-│      \
-
-│       ●
-
-│         \
-
-│          ●
-
-│            \
-
-│             ●
-
-└────────────────────→ stage number
+	│ ●
+	
+	│   \
+	
+	│    ●
+	
+	│      \
+	
+	│       ●
+	
+	│         \
+	
+	│          ●
+	
+	│            \
+	
+	│             ●
+	
+	└────────────────────→ stage number
 
 Enthalpy keeps decreasing.
 
@@ -736,31 +734,31 @@ The total enthalpy drop becomes shaft work plus losses.
 
 # 16. Pressure behaves similarly
 
-P
-
-  
-
-│ ●
-
-│   \
-
-│    \
-
-│     ●
-
-│       \
-
-│        \
-
-│         ●
-
-│           \
-
-│            \
-
-│             ●
-
-└────────────────────→ stages
+	P
+	
+	  
+	
+	│ ●
+	
+	│   \
+	
+	│    \
+	
+	│     ●
+	
+	│       \
+	
+	│        \
+	
+	│         ●
+	
+	│           \
+	
+	│            \
+	
+	│             ●
+	
+	└────────────────────→ stages
 
 Pressure continuously decreases through the turbine.
 
@@ -879,7 +877,7 @@ This is particularly important in the **LP turbine**.
 
 Initially:
 
-Superheated steam
+	Superheated steam
 
         ↓
 
@@ -887,25 +885,25 @@ Superheated steam
 
         ↓
 
-As pressure and temperature fall:
-
-Superheated
-
-     ↓
-
-Saturated vapour
-
-     ↓
-
-Wet steam
-
-     ↓
-
-more moisture
-
-On the Mollier diagram, you eventually enter the saturation dome.
-
-Conceptually:
+	As pressure and temperature fall:
+	
+	Superheated
+	
+	     ↓
+	
+	Saturated vapour
+	
+	     ↓
+	
+	Wet steam
+	
+	     ↓
+	
+	more moisture
+	
+	On the Mollier diagram, you eventually enter the saturation dome.
+	
+	Conceptually:
 
                  h
 
@@ -981,48 +979,48 @@ That's why LP turbine moisture is undesirable.
 This is why your plant doesn't simply expand steam continuously from boiler to condenser.
 
 Instead:
-
-BOILER
-
-  │
-
-  │ high P, high T
-
-  ↓
-
-HP TURBINE
-
-  │
-
-  │ pressure ↓↓↓
-
-  ↓
-
-REHEATER
-
-  │
-
-  │ temperature ↑
-
-  ↓
-
-IP TURBINE
-
-  │
-
-  │ pressure ↓↓↓
-
-  ↓
-
-LP TURBINE
-
-  │
-
-  │ pressure ↓↓↓
-
-  ↓
-
-CONDENSER
+	
+	BOILER
+	
+	  │
+	
+	  │ high P, high T
+	
+	  ↓
+	
+	HP TURBINE
+	
+	  │
+	
+	  │ pressure ↓↓↓
+	
+	  ↓
+	
+	REHEATER
+	
+	  │
+	
+	  │ temperature ↑
+	
+	  ↓
+	
+	IP TURBINE
+	
+	  │
+	
+	  │ pressure ↓↓↓
+	
+	  ↓
+	
+	LP TURBINE
+	
+	  │
+	
+	  │ pressure ↓↓↓
+	
+	  ↓
+	
+	CONDENSER
 
 The reheater is essentially saying:
 
@@ -1043,16 +1041,16 @@ This comparison should make the distinction very clear.
              THROTTLING
 
   
-
-P ────────────────→ P ↓
-
-  
-
-h ─────────────────→ CONSTANT
-
-  
-
-T ↓
+	
+	P ────────────────→ P ↓
+	
+	  
+	
+	h ─────────────────→ CONSTANT
+	
+	  
+	
+	T ↓
 
   
 
@@ -1067,14 +1065,14 @@ Entropy ↑
              EXPANSION + WORK
 
   
-
-P ↓↓↓↓↓
-
-h ↓↓↓↓↓
-
-T ↓↓↓↓↓
-
-  
+	
+	P ↓↓↓↓↓
+	
+	h ↓↓↓↓↓
+	
+	T ↓↓↓↓↓
+	
+	  
 
          ↓
 
@@ -1177,126 +1175,126 @@ h0 ↓
 ↓
 
 ### Point 6 — repeat dozens of times
-
-STATOR → ROTOR → STATOR → ROTOR → STATOR → ROTOR
-
-   ↓       ↓        ↓       ↓        ↓       ↓
-
-  h↓     work      h↓     work      h↓     work
-
-  P↓               P↓               P↓
-
-Eventually:
-
-HIGH PRESSURE
-
-HIGH TEMPERATURE
-
-SUPERHEATED STEAM
-
-  
-
-        ↓↓↓
-
-  
-
-HP TURBINE
-
-  
-
-        ↓↓↓
-
-  
-
-REHEATER
-
-  
-
-        ↓↓↓
-
-  
-
-IP TURBINE
-
-  
-
-        ↓↓↓
-
-  
-
-LP TURBINE
-
-  
-
-        ↓↓↓
-
-  
-
-LOW PRESSURE
-
-WET STEAM
-
-  
-
-        ↓
-
-  
-
-CONDENSER
+	
+	STATOR → ROTOR → STATOR → ROTOR → STATOR → ROTOR
+	
+	   ↓       ↓        ↓       ↓        ↓       ↓
+	
+	  h↓     work      h↓     work      h↓     work
+	
+	  P↓               P↓               P↓
+	
+	Eventually:
+	
+	HIGH PRESSURE
+	
+	HIGH TEMPERATURE
+	
+	SUPERHEATED STEAM
+	
+	  
+	
+	        ↓↓↓
+	
+	  
+	
+	HP TURBINE
+	
+	  
+	
+	        ↓↓↓
+	
+	  
+	
+	REHEATER
+	
+	  
+	
+	        ↓↓↓
+	
+	  
+	
+	IP TURBINE
+	
+	  
+	
+	        ↓↓↓
+	
+	  
+	
+	LP TURBINE
+	
+	  
+	
+	        ↓↓↓
+	
+	  
+	
+	LOW PRESSURE
+	
+	WET STEAM
+	
+	  
+	
+	        ↓
+	
+	  
+	
+	CONDENSER
 
 ---
 
 ## The one diagram I would keep in your notes
 
-If we reduce the entire turbine to the same "fluid property thinking" that we used for the expansion valve, it is this:
-
-                    TURBINE
-
-  
-
-       STATOR                         ROTOR
-
-   ┌────────────┐                ┌────────────┐
-
-   │            │                │            │
-
-──→│  pressure  │─── fast steam →│ momentum   │──→
-
-   │   drop     │                │   change   │
-
-   │            │                │            │
-
-   └────────────┘                └────────────┘
-
-        │                              │
-
-        ↓                              ↓
-
-      P ↓                            Torque
-
-      h ↓                              ↓
-
-      T ↓                         Shaft work
-
-      V ↑
-
-      s ≈ const
-
-  
-
-                ↓
-
-  
-
-       NEXT STATOR → NEXT ROTOR
-
-                ↓
-
-       NEXT STATOR → NEXT ROTOR
-
-                ↓
-
-                    ...
+	If we reduce the entire turbine to the same "fluid property thinking" that we used for the expansion valve, it is this:
+	
+	                    TURBINE
+	
+	  
+	
+	       STATOR                         ROTOR
+	
+	   ┌────────────┐                ┌────────────┐
+	
+	   │            │                │            │
+	
+	──→│  pressure  │─── fast steam →│ momentum   │──→
+	
+	   │   drop     │                │   change   │
+	
+	   │            │                │            │
+	
+	   └────────────┘                └────────────┘
+	
+	        │                              │
+	
+	        ↓                              ↓
+	
+	      P ↓                            Torque
+	
+	      h ↓                              ↓
+	
+	      T ↓                         Shaft work
+	
+	      V ↑
+	
+	      s ≈ const
+	
+	  
+	
+	                ↓
+	
+	  
+	
+	       NEXT STATOR → NEXT ROTOR
+	
+	                ↓
+	
+	       NEXT STATOR → NEXT ROTOR
+	
+	                ↓
+	
+	                    ...
 
 ### And on the thermodynamic level:
 
